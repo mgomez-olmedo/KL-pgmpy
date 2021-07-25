@@ -1,0 +1,27 @@
+net 
+{ 
+}
+node X1 
+{
+  states = ( "a1" "a2" );
+}
+node X2 
+{
+  states = ( "b1" "b2" );
+}
+node X3 
+{
+  states = ( "c1" "c2" );
+}
+potential ( X1 ) 
+{
+  data = ( 0.378 0.622 );
+}
+potential ( X2 ) 
+{
+  data = ( 0.276 0.724 );
+}
+potential ( X3 | X1 ) 
+{
+  data = ((0.92 0.08)(0.68 0.32)) ;
+}

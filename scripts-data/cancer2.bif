@@ -1,0 +1,47 @@
+network unknown {
+}
+variable Pollution {
+  type discrete [ 2 ] { low, high };
+}
+variable Smoker {
+  type discrete [ 2 ] { True, False };
+}
+variable Cancer {
+  type discrete [ 2 ] { True, False };
+}
+variable Xray {
+  type discrete [ 2 ] { positive, negative };
+}
+variable Dyspnoea {
+  type discrete [ 2 ] { True, False };
+}
+probability ( Pollution ) {
+  table 0.8954, 0.1046;
+}
+probability ( Smoker ) {
+  table 0.2989, 0.7011;
+}
+probability ( Cancer | Pollution, Smoker, Xray, Dyspnoea ) {
+  (low, True, positive, True) 0.1911765, 0.8088235;
+  (high, True, positive, True) 0.44, 0.56;
+  (low, False, positive, True) 0.01243781, 0.98756219;
+  (high, False, positive, True) 0.1458333, 0.8541667;
+  (low, True, negative, True) 0.008955224, 0.991044776;
+  (high, True, negative, True) 0.01333333, 0.98666667;
+  (low, False, negative, True) 0.0, 1.0;
+  (high, False, negative, True) 0.0, 1.0;
+  (low, True, positive, False) 0.07246377, 0.92753623;
+  (high, True, positive, False) 0.1463415, 0.8536585;
+  (low, False, positive, False) 0.002314815, 0.997685185;
+  (high, False, positive, False) 0.0625, 0.9375;
+  (low, True, negative, False) 0.0, 1.0;
+  (high, True, negative, False) 0.00625, 0.99375;
+  (low, False, negative, False) 0.0005706134, 0.9994293866;
+  (high, False, negative, False) 0.0, 1.0;
+}
+probability ( Xray ) {
+  table 0.2025, 0.7975;
+}
+probability ( Dyspnoea ) {
+  table 0.3102, 0.6898;
+}

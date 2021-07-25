@@ -1,0 +1,22 @@
+network unknown {
+}
+variable X1 {
+  type discrete [ 2 ] { a1, a2 };
+}
+variable X2 {
+  type discrete [ 2 ] { b1, b2 };
+}
+variable X3 {
+  type discrete [ 2 ] { c1, c2 };
+}
+probability ( X1 ) {
+  table 0.4, 0.6;
+}
+probability ( X2 | X1 ) {
+  (a1) 0.2, 0.8;
+  (a2) 0.3, 0.7;
+}
+probability ( X3 | X1 ) {
+  (a1) 0.9, 0.1;
+  (a2) 0.7, 0.3;
+}

@@ -1,0 +1,6 @@
+[console_scripts]
+xdoctest = xdoctest.__main__:main
+
+[pytest11]
+xdoctest = xdoctest.plugin
+

@@ -1,0 +1,42 @@
+network unknown {
+}
+variable A {
+  type discrete [ 3 ] { young, adult, old };
+}
+variable S {
+  type discrete [ 2 ] { M, F };
+}
+variable E {
+  type discrete [ 2 ] { high, uni };
+}
+variable O {
+  type discrete [ 2 ] { emp, self };
+}
+variable R {
+  type discrete [ 2 ] { small, big };
+}
+variable T {
+  type discrete [ 3 ] { car, train, other };
+}
+probability ( A | E ) {
+  (high) 0.2553763, 0.5080645, 0.2365591;
+  (uni) 0.3125, 0.6250, 0.0625;
+}
+probability ( S ) {
+  table 0.586, 0.414;
+}
+probability ( E ) {
+  table 0.744, 0.256;
+}
+probability ( O ) {
+  table 0.932, 0.068;
+}
+probability ( R ) {
+  table 0.248, 0.752;
+}
+probability ( T | O, R ) {
+  (emp, small) 0.5350877, 0.3596491, 0.1052632;
+  (self, small) 0.9, 0.1, 0.0;
+  (emp, big) 0.5738636, 0.2272727, 0.1988636;
+  (self, big) 0.79166667, 0.12500000, 0.08333333;
+}

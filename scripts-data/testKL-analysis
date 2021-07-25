@@ -1,0 +1,8 @@
+export PYTHONPATH=$PWD
+
+for i in cancer earthquake survey asia sachs child insurance water mildew alarm barley hailfinder hepar2 win95pts 
+  do
+	echo computing with $i
+	python pgmpy/kltools/methodAnalysis/klAnalysisSingleNet.py $i
+  done
+

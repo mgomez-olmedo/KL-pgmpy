@@ -1,0 +1,10 @@
+networkx
+numpy
+scipy
+scikit-learn==0.23.2
+pandas
+pyparsing
+torch
+statsmodels
+tqdm
+joblib

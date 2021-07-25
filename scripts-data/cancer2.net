@@ -1,0 +1,43 @@
+net 
+{ 
+}
+node Pollution 
+{
+  states = ( "low" "high" );
+}
+node Smoker 
+{
+  states = ( "True" "False" );
+}
+node Cancer 
+{
+  states = ( "True" "False" );
+}
+node Xray 
+{
+  states = ( "positive" "negative" );
+}
+node Dyspnoea 
+{
+  states = ( "True" "False" );
+}
+potential ( Pollution ) 
+{
+  data = ( 0.8954 0.1046 );
+}
+potential ( Smoker ) 
+{
+  data = ( 0.2989 0.7011 );
+}
+potential ( Cancer | Pollution Smoker Xray Dyspnoea ) 
+{
+  data = (((((0.1911765 0.8088235)(0.07246377 0.92753623))((0.008955224 0.991044776)(0.0 1.0)))(((0.01243781 0.98756219)(0.002314815 0.997685185))((0.0 1.0)(0.0005706134 0.9994293866))))((((0.44 0.56)(0.1463415 0.8536585))((0.01333333 0.98666667)(0.00625 0.99375)))(((0.1458333 0.8541667)(0.0625 0.9375))((0.0 1.0)(0.0 1.0))))) ;
+}
+potential ( Xray ) 
+{
+  data = ( 0.2025 0.7975 );
+}
+potential ( Dyspnoea ) 
+{
+  data = ( 0.3102 0.6898 );
+}

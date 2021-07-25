@@ -1,0 +1,198 @@
+network unknown {
+}
+variable BirthAsphyxia {
+  type discrete [ 2 ] { yes, no };
+}
+variable HypDistrib {
+  type discrete [ 2 ] { Equal, Unequal };
+}
+variable HypoxiaInO2 {
+  type discrete [ 3 ] { Mild, Moderate, Severe };
+}
+variable CO2 {
+  type discrete [ 3 ] { Normal, Low, High };
+}
+variable ChestXray {
+  type discrete [ 5 ] { Normal, Oligaemic, Plethoric, Grd_Glass, Asy/Patch };
+}
+variable Grunting {
+  type discrete [ 2 ] { yes, no };
+}
+variable LVHreport {
+  type discrete [ 2 ] { yes, no };
+}
+variable LowerBodyO2 {
+  type discrete [ 3 ] { <5, 5-12, 12+ };
+}
+variable RUQO2 {
+  type discrete [ 3 ] { <5, 5-12, 12+ };
+}
+variable CO2Report {
+  type discrete [ 2 ] { <7.5, >=7.5 };
+}
+variable XrayReport {
+  type discrete [ 5 ] { Normal, Oligaemic, Plethoric, Grd_Glass, Asy/Patchy };
+}
+variable Disease {
+  type discrete [ 6 ] { PFC, TGA, Fallot, PAIVS, TAPVD, Lung };
+}
+variable GruntingReport {
+  type discrete [ 2 ] { yes, no };
+}
+variable Age {
+  type discrete [ 3 ] { 0-3_days, 4-10_days, 11-30_days };
+}
+variable LVH {
+  type discrete [ 2 ] { yes, no };
+}
+variable DuctFlow {
+  type discrete [ 3 ] { Lt_to_Rt, None, Rt_to_Lt };
+}
+variable CardiacMixing {
+  type discrete [ 4 ] { None, Mild, Complete, Transp. };
+}
+variable LungParench {
+  type discrete [ 3 ] { Normal, Congested, Abnormal };
+}
+variable LungFlow {
+  type discrete [ 3 ] { Normal, Low, High };
+}
+variable Sick {
+  type discrete [ 2 ] { yes, no };
+}
+probability ( BirthAsphyxia ) {
+  table 0.11, 0.89;
+}
+probability ( HypDistrib | DuctFlow, CardiacMixing ) {
+  (Lt_to_Rt, None) 1.0, 0.0;
+  (None, None) 0.93333333, 0.06666667;
+  (Rt_to_Lt, None) 0.0, 1.0;
+  (Lt_to_Rt, Mild) 0.94, 0.06;
+  (None, Mild) 0.98305085, 0.01694915;
+  (Rt_to_Lt, Mild) 0.4, 0.6;
+  (Lt_to_Rt, Complete) 0.94634146, 0.05365854;
+  (None, Complete) 0.97701149, 0.02298851;
+  (Rt_to_Lt, Complete) 1.0, 0.0;
+  (Lt_to_Rt, Transp.) 0.8863636, 0.1136364;
+  (None, Transp.) 0.94736842, 0.05263158;
+  (Rt_to_Lt, Transp.) 0.4827586, 0.5172414;
+}
+probability ( HypoxiaInO2 | CardiacMixing ) {
+  (None) 0.75806452, 0.20967742, 0.03225806;
+  (Mild) 0.07751938, 0.80620155, 0.11627907;
+  (Complete) 0.09867173, 0.64705882, 0.25426945;
+  (Transp.) 0.0141844, 0.1808511, 0.8049645;
+}
+probability ( CO2 | LungParench ) {
+  (Normal) 0.81385281, 0.09235209, 0.09379509;
+  (Congested) 0.61111111, 0.07777778, 0.31111111;
+  (Abnormal) 0.41935484, 0.07373272, 0.50691244;
+}
+probability ( ChestXray | LungParench, LungFlow ) {
+  (Normal, Normal) 0.933962264, 0.028301887, 0.028301887, 0.000000000, 0.009433962;
+  (Congested, Normal) 0.03846154, 0.00000000, 0.11538462, 0.76923077, 0.07692308;
+  (Abnormal, Normal) 0.01666667, 0.03333333, 0.05000000, 0.03333333, 0.86666667;
+  (Normal, Low) 0.12044818, 0.82913165, 0.01400560, 0.02521008, 0.01120448;
+  (Congested, Low) 0.0625, 0.1875, 0.0625, 0.4375, 0.2500;
+  (Abnormal, Low) 0.05952381, 0.08333333, 0.05952381, 0.05952381, 0.73809524;
+  (Normal, High) 0.17826087, 0.00000000, 0.77826087, 0.03043478, 0.01304348;
+  (Congested, High) 0.0625, 0.0000, 0.3125, 0.4375, 0.1875;
+  (Abnormal, High) 0.21917808, 0.38356164, 0.02739726, 0.34246575, 0.02739726;
+}
+probability ( Grunting | LungParench, Sick ) {
+  (Normal, yes) 0.198895, 0.801105;
+  (Congested, yes) 0.4, 0.6;
+  (Abnormal, yes) 0.862069, 0.137931;
+  (Normal, no) 0.0390625, 0.9609375;
+  (Congested, no) 0.175, 0.825;
+  (Abnormal, no) 0.6615385, 0.3384615;
+}
+probability ( LVHreport | LVH ) {
+  (yes) 0.8821429, 0.1178571;
+  (no) 0.04305556, 0.95694444;
+}
+probability ( LowerBodyO2 | HypDistrib, HypoxiaInO2 ) {
+  (Equal, Mild) 0.07865169, 0.32584270, 0.59550562;
+  (Unequal, Mild) 0.58333333, 0.33333333, 0.08333333;
+  (Equal, Moderate) 0.2912206, 0.5952891, 0.1134904;
+  (Unequal, Moderate) 0.52380952, 0.45238095, 0.02380952;
+  (Equal, Severe) 0.4798851, 0.3908046, 0.1293103;
+  (Unequal, Severe) 0.40000000, 0.56666667, 0.03333333;
+}
+probability ( RUQO2 | HypoxiaInO2 ) {
+  (Mild) 0.1327434, 0.3539823, 0.5132743;
+  (Moderate) 0.2946955, 0.6011788, 0.1041257;
+  (Severe) 0.4788360, 0.3809524, 0.1402116;
+}
+probability ( CO2Report | CO2 ) {
+  (Normal) 0.884507, 0.115493;
+  (Low) 0.8850575, 0.1149425;
+  (High) 0.1133005, 0.8866995;
+}
+probability ( XrayReport | ChestXray ) {
+  (Normal) 0.84285714, 0.04761905, 0.04761905, 0.01428571, 0.04761905;
+  (Oligaemic) 0.08479532, 0.81871345, 0.02046784, 0.01169591, 0.06432749;
+  (Plethoric) 0.10849057, 0.04716981, 0.75000000, 0.01886792, 0.07547170;
+  (Grd_Glass) 0.05208333, 0.00000000, 0.09375000, 0.61458333, 0.23958333;
+  (Asy/Patch) 0.05714286, 0.03571429, 0.10000000, 0.12142857, 0.68571429;
+}
+probability ( Disease | LungParench ) {
+  (Normal) 0.028860029, 0.402597403, 0.323232323, 0.233766234, 0.005772006, 0.005772006;
+  (Congested) 0.03333333, 0.17777778, 0.12222222, 0.18888889, 0.35555556, 0.12222222;
+  (Abnormal) 0.06912442, 0.27188940, 0.18433180, 0.19815668, 0.08755760, 0.18894009;
+}
+probability ( GruntingReport | Grunting ) {
+  (yes) 0.7909836, 0.2090164;
+  (no) 0.08465608, 0.91534392;
+}
+probability ( Age | Disease ) {
+  (PFC) 0.97368421, 0.02631579, 0.00000000;
+  (TGA) 0.75141243, 0.15536723, 0.09322034;
+  (Fallot) 0.3781818, 0.2145455, 0.4072727;
+  (PAIVS) 0.77477477, 0.18468468, 0.04054054;
+  (TAPVD) 0.74545455, 0.21818182, 0.03636364;
+  (Lung) 0.83928571, 0.14285714, 0.01785714;
+}
+probability ( LVH | Disease ) {
+  (PFC) 0.07894737, 0.92105263;
+  (TGA) 0.0960452, 0.9039548;
+  (Fallot) 0.09454545, 0.90545455;
+  (PAIVS) 0.90540541, 0.09459459;
+  (TAPVD) 0.1090909, 0.8909091;
+  (Lung) 0.1785714, 0.8214286;
+}
+probability ( DuctFlow | Disease ) {
+  (PFC) 0.23684211, 0.07894737, 0.68421053;
+  (TGA) 0.1242938, 0.7683616, 0.1073446;
+  (Fallot) 0.7963636, 0.2036364, 0.0000000;
+  (PAIVS) 1.0, 0.0, 0.0;
+  (TAPVD) 0.4363636, 0.2000000, 0.3636364;
+  (Lung) 0.1607143, 0.5000000, 0.3392857;
+}
+probability ( CardiacMixing | Disease ) {
+  (PFC) 0.47368421, 0.34210526, 0.13157895, 0.05263158;
+  (TGA) 0.01129944, 0.10451977, 0.13276836, 0.75141243;
+  (Fallot) 0.02181818, 0.16000000, 0.78181818, 0.03636364;
+  (PAIVS) 0.03153153, 0.02702703, 0.92342342, 0.01801802;
+  (TAPVD) 0.00000000, 0.03636364, 0.96363636, 0.00000000;
+  (Lung) 0.48214286, 0.48214286, 0.03571429, 0.00000000;
+}
+probability ( LungParench ) {
+  table 0.693, 0.090, 0.217;
+}
+probability ( LungFlow | Disease ) {
+  (PFC) 0.18421053, 0.78947368, 0.02631579;
+  (TGA) 0.22598870, 0.05084746, 0.72316384;
+  (Fallot) 0.12363636, 0.82909091, 0.04727273;
+  (PAIVS) 0.09009009, 0.83333333, 0.07657658;
+  (TAPVD) 0.1636364, 0.1454545, 0.6909091;
+  (Lung) 0.75000000, 0.07142857, 0.17857143;
+}
+probability ( Sick | Disease ) {
+  (PFC) 0.2631579, 0.7368421;
+  (TGA) 0.2881356, 0.7118644;
+  (Fallot) 0.2036364, 0.7963636;
+  (PAIVS) 0.2972973, 0.7027027;
+  (TAPVD) 0.7818182, 0.2181818;
+  (Lung) 0.7321429, 0.2678571;
+}

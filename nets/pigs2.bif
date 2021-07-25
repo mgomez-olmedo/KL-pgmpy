@@ -1,0 +1,5016 @@
+network unknown {
+}
+variable p630400490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48124091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627270088 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p392115290 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627276488 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p392150190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48109691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630071089 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630067789 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630384190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48109791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83306289 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83456290 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p277195691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p277114088 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197132888 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p277155690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p277195791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p277111088 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p277162190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p216124491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p230416387 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p216077190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p216124591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630396290 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630182291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630031389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630299990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82019685 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p803043885 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p751512889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p392157391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48147992 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630439091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48148092 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630388390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83567891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83314589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83470790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48084891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630014189 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630323790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630155091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543072191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543472088 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543654190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543072291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547629489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547097990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197119188 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197140688 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p753023491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p609183992 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543036891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547633289 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547620489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547054590 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543036991 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543378087 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197125588 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543517389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543657690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543084792 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630430091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48127091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50261091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630398790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48111891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48172392 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630390690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48172492 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50241090 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82154988 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82236090 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p750365488 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p392120790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630328490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630152091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630328890 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630772188 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630282090 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48112891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50052788 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630672087 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50168489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48128191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48139191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630426691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48139291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83572791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83371889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83324189 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83474091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83572891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543068091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543068391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p392203792 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522398991 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543419788 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522334189 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522204687 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522279888 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522369890 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522449292 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197240391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197143789 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197192390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197240491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197258291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197258391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197258591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197303091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197303191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197162589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82191389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197201290 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197303291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197288691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197149689 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197318792 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197210690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197165689 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197206590 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197075886 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p751230786 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197126088 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197229090 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197288791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197276591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197180690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197252391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197252591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197131388 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197206490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197256791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197353592 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50139889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50195390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48004891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630172991 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630173091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630147391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630147591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630154689 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197130688 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630154989 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630810388 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630067989 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197263491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197130288 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197153289 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197235390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p751038090 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p88127791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p751513589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p88067190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p392012788 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197168789 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p88014589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197211690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197314191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50095388 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48022391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630810288 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50212890 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630311090 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48022291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p230057992 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p230433487 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p603176686 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p230565789 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p230757791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82065086 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p392087690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82349391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82345291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82258290 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82206789 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82210989 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82258390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82349491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48000191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48000291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48110491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48110591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630088089 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630384990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630813788 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630062489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630040991 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630154291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630052589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630239990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630475686 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630058889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630643987 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630652587 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630073589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630266190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50241490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48072391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630373290 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630815588 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630810088 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630068889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630373890 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48197592 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48213092 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83290288 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630062389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630064189 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83403790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630249690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p83500691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48213192 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48000691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82243490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82197489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82198489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82243390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82292291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82241490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82050786 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522082985 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82218889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82347891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82338291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82338391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82206489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p826030789 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82307191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82422492 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48064091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48064191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82142888 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82247790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82152588 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82238890 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82334391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p751015990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48064391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50197190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630258690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48013791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50197390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50197590 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50133689 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50140189 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50197290 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48007991 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82228290 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82105287 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82228490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82277591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82182889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82218289 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543151292 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p751106191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543151392 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543709391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543420288 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543583789 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82183689 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547497788 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82266890 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82332291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82261490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82303591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82141488 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197130888 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82303691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82211489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82206389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82261890 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82366892 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82185289 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82191289 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82229690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82280791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82224990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82225190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441290591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441324091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441324191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441231890 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441119488 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441231590 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441290691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441118988 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441214590 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p609091487 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p609134289 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82133387 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82225690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82350491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p958249187 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p95141490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p95247691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p95090289 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p95147490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627412591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627396491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627343790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627275788 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627294789 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627344390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627412991 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p958237987 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627204487 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547328787 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p603176486 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p95029088 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547469388 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p95084689 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82350591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630815088 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82251690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p237082692 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251337389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251226287 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p237016791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251336689 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p230537588 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251428590 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p237017391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48131791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630388990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48131891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630652887 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82152788 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251388889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630192689 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251494491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251564791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251476190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251506491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p807012287 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251372589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251260288 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p230474587 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251340389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251463690 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p251476390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p237011591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p237082792 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82299691 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82144488 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82089087 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82121587 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82144288 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197180790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82218589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197252291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522435092 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522361390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522208187 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p522284388 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543416288 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547325687 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543551889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p543068491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630194791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630194891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630019789 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630319390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630194991 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630388590 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630184291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630322190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630845888 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630322390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630091391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630258890 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630844188 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630258790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630217392 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630328990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630655987 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630043389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p893080087 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50132089 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630501586 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441046286 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p547261686 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441134788 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p441183089 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82318091 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82318191 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82150988 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p392115490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p392115590 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82105387 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p609110188 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82150688 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p609133389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p609164891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627246188 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627320490 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627367791 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p751522389 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627378291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197343392 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197224190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197131588 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197143589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197111387 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197114187 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197131688 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630068489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p197155489 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630388190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48084991 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630886588 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630349790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48084291 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48084391 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50249390 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50141889 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50249590 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p48092591 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630659387 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630335990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630155891 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630007589 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630370190 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50070388 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p630798688 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p50133089 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82282491 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82154688 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82093287 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82154888 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82071386 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p750261487 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82140988 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627350790 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627257588 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627333990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82155088 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p627253288 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+variable p82265990 {
+  type discrete [ 3 ] { 0, 1, 2 };
+}
+probability ( p630400490 ) {
+  table 0.2568, 0.5040, 0.2392;
+}
+probability ( p48124091 | p630400490, p82265990 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.496904, 0.503096, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4870229, 0.5129771, 0.0000000;
+  (1, 1) 0.2254032, 0.5088710, 0.2657258;
+  (2, 1) 0.000000, 0.507377, 0.492623;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5039432, 0.4960568;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627270088 ) {
+  table 0.2504, 0.5046, 0.2450;
+}
+probability ( p392115290 | p627270088, p627253288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5123457, 0.4876543, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5102041, 0.4897959, 0.0000000;
+  (1, 1) 0.2613144, 0.4962613, 0.2424242;
+  (2, 1) 0.0000000, 0.5020178, 0.4979822;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4888337, 0.5111663;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627276488 ) {
+  table 0.2428, 0.5043, 0.2529;
+}
+probability ( p392150190 | p627276488, p627253288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4916996, 0.5083004, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5127572, 0.4872428, 0.0000000;
+  (1, 1) 0.2438260, 0.5150921, 0.2410819;
+  (2, 1) 0.0000000, 0.5131988, 0.4868012;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4930725, 0.5069275;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48109691 | p630384190, p83456290 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5015504, 0.4984496, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4762658, 0.5237342, 0.0000000;
+  (1, 1) 0.2573123, 0.5067194, 0.2359684;
+  (2, 1) 0.0000000, 0.5153019, 0.4846981;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.508871, 0.491129;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630071089 ) {
+  table 0.2546, 0.4898, 0.2556;
+}
+probability ( p630067789 ) {
+  table 0.2514, 0.5018, 0.2468;
+}
+probability ( p630384190 | p630071089, p630067789 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4909662, 0.5090338, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4931611, 0.5068389, 0.0000000;
+  (1, 1) 0.2424116, 0.4993763, 0.2582121;
+  (2, 1) 0.0000000, 0.5073246, 0.4926754;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5172131, 0.4827869;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48109791 | p630384190, p83456290 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4976744, 0.5023256, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5047468, 0.4952532, 0.0000000;
+  (1, 1) 0.2328063, 0.5118577, 0.2553360;
+  (2, 1) 0.0000000, 0.5062035, 0.4937965;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4959677, 0.5040323;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p83306289 ) {
+  table 0.2489, 0.5065, 0.2446;
+}
+probability ( p83456290 | p83306289, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5149885, 0.4850115, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5024155, 0.4975845, 0.0000000;
+  (1, 1) 0.2610602, 0.5009964, 0.2379434;
+  (2, 1) 0.0000000, 0.4792703, 0.5207297;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5059761, 0.4940239;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p277195691 | p277155690, p277162190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5212934, 0.4787066, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4934211, 0.5065789, 0.0000000;
+  (1, 1) 0.2597250, 0.4923379, 0.2479371;
+  (2, 1) 0.0000000, 0.4731438, 0.5268562;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4915933, 0.5084067;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p277114088 ) {
+  table 0.2475, 0.4920, 0.2605;
+}
+probability ( p197132888 ) {
+  table 0.2448, 0.5082, 0.2470;
+}
+probability ( p277155690 | p277114088, p197132888 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4764268, 0.5235732, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4793522, 0.5206478, 0.0000000;
+  (1, 1) 0.2588189, 0.4974237, 0.2437574;
+  (2, 1) 0.0000000, 0.5045317, 0.4954683;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5084175, 0.4915825;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p277195791 | p277155690, p277162190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4881703, 0.5118297, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5115132, 0.4884868, 0.0000000;
+  (1, 1) 0.2526523, 0.4954813, 0.2518664;
+  (2, 1) 0.0000000, 0.4984202, 0.5015798;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5204163, 0.4795837;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p277111088 ) {
+  table 0.2514, 0.5041, 0.2445;
+}
+probability ( p277162190 | p277111088, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4903772, 0.5096228, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4890688, 0.5109312, 0.0000000;
+  (1, 1) 0.2543260, 0.4929577, 0.2527163;
+  (2, 1) 0.0000000, 0.4987874, 0.5012126;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4996022, 0.5003978;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p216124491 | p216077190, p630396290 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5007886, 0.4992114, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4841076, 0.5158924, 0.0000000;
+  (1, 1) 0.2408524, 0.4953760, 0.2637716;
+  (2, 1) 0.0000000, 0.5040193, 0.4959807;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4996186, 0.5003814;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p230416387 ) {
+  table 0.249, 0.495, 0.256;
+}
+probability ( p216077190 | p230416387, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5136399, 0.4863601, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4746687, 0.5253313, 0.0000000;
+  (1, 1) 0.2389859, 0.5182876, 0.2427265;
+  (2, 1) 0.0000000, 0.5126183, 0.4873817;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5067407, 0.4932593;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p216124591 | p216077190, p630396290 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5007886, 0.4992114, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4784026, 0.5215974, 0.0000000;
+  (1, 1) 0.2589465, 0.4941697, 0.2468838;
+  (2, 1) 0.0000000, 0.5064309, 0.4935691;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5011442, 0.4988558;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630396290 ) {
+  table 0.2520, 0.4958, 0.2522;
+}
+probability ( p630182291 | p630396290, p630299990 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.507177, 0.492823, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4983607, 0.5016393, 0.0000000;
+  (1, 1) 0.2538712, 0.5024450, 0.2436838;
+  (2, 1) 0.0000000, 0.4782609, 0.5217391;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000, 0.4968, 0.5032;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630031389 ) {
+  table 0.2476, 0.5021, 0.2503;
+}
+probability ( p630299990 | p630031389, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.496112, 0.503888, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.527027, 0.472973, 0.000000;
+  (1, 1) 0.2483766, 0.4922890, 0.2593344;
+  (2, 1) 0.0000000, 0.4777328, 0.5222672;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4948859, 0.5051141;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82019685 ) {
+  table 0.2501, 0.4914, 0.2585;
+}
+probability ( p803043885 ) {
+  table 0.2537, 0.4986, 0.2477;
+}
+probability ( p751512889 ) {
+  table 0.2526, 0.4974, 0.2500;
+}
+probability ( p392157391 | p751512889, p50133089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4992114, 0.5007886, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4803392, 0.5196608, 0.0000000;
+  (1, 1) 0.2555421, 0.5002015, 0.2442563;
+  (2, 1) 0.0000000, 0.4796085, 0.5203915;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5012245, 0.4987755;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48147992 | p630439091, p630388390 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5008432, 0.4991568, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4973424, 0.5026576, 0.0000000;
+  (1, 1) 0.2445521, 0.5096852, 0.2457627;
+  (2, 1) 0.0000000, 0.4900398, 0.5099602;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5183374, 0.4816626;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630439091 ) {
+  table 0.2573, 0.4891, 0.2536;
+}
+probability ( p48148092 | p630439091, p630388390 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4890388, 0.5109612, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5018983, 0.4981017, 0.0000000;
+  (1, 1) 0.2522195, 0.4931396, 0.2546408;
+  (2, 1) 0.0000000, 0.5003984, 0.4996016;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4979625, 0.5020375;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630388390 ) {
+  table 0.2465, 0.5050, 0.2485;
+}
+probability ( p83567891 | p630388390, p83470790 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4913793, 0.5086207, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4930725, 0.5069275, 0.0000000;
+  (1, 1) 0.2518072, 0.5000000, 0.2481928;
+  (2, 1) 0.0000000, 0.4963913, 0.5036087;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4680685, 0.5319315;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p83314589 ) {
+  table 0.2498, 0.4989, 0.2513;
+}
+probability ( p83470790 | p83314589, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5051546, 0.4948454, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5144695, 0.4855305, 0.0000000;
+  (1, 1) 0.2418167, 0.5036825, 0.2545008;
+  (2, 1) 0.0000000, 0.4692429, 0.5307571;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5007788, 0.4992212;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48084891 | p630388190, p630349790 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.498358, 0.501642, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4778405, 0.5221595, 0.0000000;
+  (1, 1) 0.2389449, 0.5128006, 0.2482545;
+  (2, 1) 0.000000, 0.498818, 0.501182;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4923817, 0.5076183;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630014189 ) {
+  table 0.2491, 0.5056, 0.2453;
+}
+probability ( p630323790 | p630014189, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4960317, 0.5039683, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4871176, 0.5128824, 0.0000000;
+  (1, 1) 0.243805, 0.491207, 0.264988;
+  (2, 1) 0.0000000, 0.4933993, 0.5066007;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4930448, 0.5069552;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630155091 | p630323790, p630388190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5033058, 0.4966942, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4952153, 0.5047847, 0.0000000;
+  (1, 1) 0.2544309, 0.4998031, 0.2457660;
+  (2, 1) 0.0000, 0.4816, 0.5184;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4922449, 0.5077551;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543072191 | p543654190, p547097990 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4818182, 0.5181818, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5131783, 0.4868217, 0.0000000;
+  (1, 1) 0.2704480, 0.4812988, 0.2482532;
+  (2, 1) 0.0000000, 0.5344262, 0.4655738;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5312989, 0.4687011;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543472088 ) {
+  table 0.2494, 0.4943, 0.2563;
+}
+probability ( p543654190 | p543472088, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5260252, 0.4739748, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5008143, 0.4991857, 0.0000000;
+  (1, 1) 0.2526574, 0.4873262, 0.2600164;
+  (2, 1) 0.0000000, 0.4933749, 0.5066251;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5191212, 0.4808788;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543072291 | p543654190, p547097990 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4975207, 0.5024793, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5046512, 0.4953488, 0.0000000;
+  (1, 1) 0.2474312, 0.5133580, 0.2392109;
+  (2, 1) 0.000000, 0.504918, 0.495082;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4898279, 0.5101721;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p547629489 ) {
+  table 0.2481, 0.4973, 0.2546;
+}
+probability ( p547097990 | p547629489, p197140688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4831373, 0.5168627, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4789515, 0.5210485, 0.0000000;
+  (1, 1) 0.2557283, 0.4787234, 0.2655483;
+  (2, 1) 0.0000000, 0.4749422, 0.5250578;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4824561, 0.5175439;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197119188 ) {
+  table 0.2484, 0.5003, 0.2513;
+}
+probability ( p197140688 | p197119188, p197114187 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5214521, 0.4785479, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.49166, 0.50834, 0.00000;
+  (1, 1) 0.2585938, 0.4960938, 0.2453125;
+  (2, 1) 0.0000000, 0.5062208, 0.4937792;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5166531, 0.4833469;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p753023491 ) {
+  table 0.2514, 0.4891, 0.2595;
+}
+probability ( p609183992 | p753023491, p609164891 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.513214, 0.486786, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5019577, 0.4980423, 0.0000000;
+  (1, 1) 0.2474930, 0.5074208, 0.2450862;
+  (2, 1) 0.0000000, 0.5026902, 0.4973098;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5126531, 0.4873469;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543036891 | p547054590, p543657690 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5293644, 0.4706356, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5309446, 0.4690554, 0.0000000;
+  (1, 1) 0.2585089, 0.4846029, 0.2568882;
+  (2, 1) 0.0000000, 0.5160256, 0.4839744;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5237342, 0.4762658;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p547633289 ) {
+  table 0.2489, 0.5014, 0.2497;
+}
+probability ( p547620489 ) {
+  table 0.2502, 0.5037, 0.2461;
+}
+probability ( p547054590 | p547633289, p547620489 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4884093, 0.5115907, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5190779, 0.4809221, 0.0000000;
+  (1, 1) 0.2373757, 0.5029821, 0.2596421;
+  (2, 1) 0.0000000, 0.5031646, 0.4968354;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4959936, 0.5040064;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543036991 | p547054590, p543657690 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4843121, 0.5156879, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5081433, 0.4918567, 0.0000000;
+  (1, 1) 0.2451378, 0.5072934, 0.2475689;
+  (2, 1) 0.0000000, 0.5176282, 0.4823718;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5015823, 0.4984177;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543378087 ) {
+  table 0.2466, 0.5020, 0.2514;
+}
+probability ( p197125588 ) {
+  table 0.2458, 0.5019, 0.2523;
+}
+probability ( p543517389 | p543378087, p197125588 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4879615, 0.5120385, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5004036, 0.4995964, 0.0000000;
+  (1, 1) 0.2497051, 0.4970507, 0.2532442;
+  (2, 1) 0.0000000, 0.5270816, 0.4729184;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4857839, 0.5142161;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543657690 | p543517389, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5081839, 0.4918161, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.492671, 0.507329, 0.000000;
+  (1, 1) 0.2641357, 0.4713247, 0.2645396;
+  (2, 1) 0.0000000, 0.5059856, 0.4940144;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4918161, 0.5081839;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543084792 | p543657690, p441183089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4938068, 0.5061932, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4863813, 0.5136187, 0.0000000;
+  (1, 1) 0.2418773, 0.5118331, 0.2462896;
+  (2, 1) 0.0000000, 0.4965986, 0.5034014;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5064516, 0.4935484;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630430091 ) {
+  table 0.2414, 0.5095, 0.2491;
+}
+probability ( p48127091 | p630430091, p50261091 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5148741, 0.4851259, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4920899, 0.5079101, 0.0000000;
+  (1, 1) 0.2551752, 0.5019904, 0.2428344;
+  (2, 1) 0.0000000, 0.5238474, 0.4761526;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4968553, 0.5031447;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50261091 | p50070388, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5041528, 0.4958472, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5226904, 0.4773096, 0.0000000;
+  (1, 1) 0.2596075, 0.4967294, 0.2436631;
+  (2, 1) 0.0000000, 0.4980423, 0.5019577;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5008013, 0.4991987;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630398790 ) {
+  table 0.2538, 0.5022, 0.2440;
+}
+probability ( p48111891 | p630398790, p50241090 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4943366, 0.5056634, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4885194, 0.5114806, 0.0000000;
+  (1, 1) 0.2546948, 0.4925665, 0.2527387;
+  (2, 1) 0.0000000, 0.5192465, 0.4807535;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.495935, 0.504065;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48172392 | p630390690, p50241090 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4854839, 0.5145161, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5027581, 0.4972419, 0.0000000;
+  (1, 1) 0.2540370, 0.4927137, 0.2532493;
+  (2, 1) 0.0000000, 0.4983766, 0.5016234;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0, 0.5, 0.5;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630390690 ) {
+  table 0.2517, 0.5025, 0.2458;
+}
+probability ( p48172492 | p630390690, p50241090 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4943548, 0.5056452, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4728132, 0.5271868, 0.0000000;
+  (1, 1) 0.2520677, 0.4994092, 0.2485230;
+  (2, 1) 0.000000, 0.512987, 0.487013;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5136437, 0.4863563;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50241090 | p50132089, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5136826, 0.4863174, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4996109, 0.5003891, 0.0000000;
+  (1, 1) 0.2382523, 0.5156636, 0.2460841;
+  (2, 1) 0.0000000, 0.4987952, 0.5012048;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5292259, 0.4707741;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82154988 ) {
+  table 0.2570, 0.5015, 0.2415;
+}
+probability ( p82236090 | p82154988, p893080087 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4867601, 0.5132399, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5080214, 0.4919786, 0.0000000;
+  (1, 1) 0.2575453, 0.4957746, 0.2466801;
+  (2, 1) 0.0000000, 0.5037344, 0.4962656;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4983949, 0.5016051;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p750365488 ) {
+  table 0.2502, 0.5013, 0.2485;
+}
+probability ( p392120790 | p750365488, p893080087 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4904306, 0.5095694, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5113269, 0.4886731, 0.0000000;
+  (1, 1) 0.2387941, 0.4954383, 0.2657676;
+  (2, 1) 0.0000000, 0.5056361, 0.4943639;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5056543, 0.4943457;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630328490 | p630043389, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4995925, 0.5004075, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4732214, 0.5267786, 0.0000000;
+  (1, 1) 0.2489992, 0.5076061, 0.2433947;
+  (2, 1) 0.0000000, 0.5086993, 0.4913007;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4937984, 0.5062016;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630152091 | p630328890, p630388190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4929926, 0.5070074, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4892772, 0.5107228, 0.0000000;
+  (1, 1) 0.2405063, 0.5071203, 0.2523734;
+  (2, 1) 0.0000000, 0.4920382, 0.5079618;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.518283, 0.481717;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630328890 | p630043389, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4784026, 0.5215974, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4948042, 0.5051958, 0.0000000;
+  (1, 1) 0.2594075, 0.4955965, 0.2449960;
+  (2, 1) 0.0000000, 0.4971002, 0.5028998;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4813953, 0.5186047;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630772188 ) {
+  table 0.2567, 0.4949, 0.2484;
+}
+probability ( p630282090 | p630772188, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5081833, 0.4918167, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4874016, 0.5125984, 0.0000000;
+  (1, 1) 0.2501018, 0.4945010, 0.2553971;
+  (2, 1) 0.000000, 0.474411, 0.525589;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.495283, 0.504717;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48112891 | p630282090, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5179445, 0.4820555, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5060048, 0.4939952, 0.0000000;
+  (1, 1) 0.2503098, 0.4952499, 0.2544403;
+  (2, 1) 0.0000000, 0.4988105, 0.5011895;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4992366, 0.5007634;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50052788 ) {
+  table 0.2457, 0.4931, 0.2612;
+}
+probability ( p630672087 ) {
+  table 0.2543, 0.4922, 0.2535;
+}
+probability ( p50168489 | p50052788, p630672087 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4814815, 0.5185185, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5294613, 0.4705387, 0.0000000;
+  (1, 1) 0.2585227, 0.4898539, 0.2516234;
+  (2, 1) 0.000000, 0.484252, 0.515748;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5047923, 0.4952077;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48128191 | p50168489, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5457464, 0.4542536, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4899275, 0.5100725, 0.0000000;
+  (1, 1) 0.2397854, 0.5158894, 0.2443252;
+  (2, 1) 0.0000000, 0.5319653, 0.4680347;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4948454, 0.5051546;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48139191 | p630426691, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5121359, 0.4878641, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5012325, 0.4987675, 0.0000000;
+  (1, 1) 0.2514239, 0.5166802, 0.2318959;
+  (2, 1) 0.0, 0.5, 0.5;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0, 0.5, 0.5;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630426691 ) {
+  table 0.2499, 0.4996, 0.2505;
+}
+probability ( p48139291 | p630426691, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4676375, 0.5323625, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4921939, 0.5078061, 0.0000000;
+  (1, 1) 0.2705452, 0.4816924, 0.2477624;
+  (2, 1) 0.0000000, 0.5111465, 0.4888535;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4984639, 0.5015361;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p83572791 | p83474091, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.500394, 0.499606, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4883721, 0.5116279, 0.0000000;
+  (1, 1) 0.2434158, 0.5035914, 0.2529928;
+  (2, 1) 0.0000000, 0.4864865, 0.5135135;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5104408, 0.4895592;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p83371889 ) {
+  table 0.2458, 0.5041, 0.2501;
+}
+probability ( p83324189 ) {
+  table 0.2478, 0.4945, 0.2577;
+}
+probability ( p83474091 | p83371889, p83324189 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4953125, 0.5046875, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4863974, 0.5136026, 0.0000000;
+  (1, 1) 0.2491909, 0.5129450, 0.2378641;
+  (2, 1) 0.0000000, 0.5174603, 0.4825397;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5073701, 0.4926299;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p83572891 | p83474091, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4893617, 0.5106383, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5091362, 0.4908638, 0.0000000;
+  (1, 1) 0.2609737, 0.4972067, 0.2418196;
+  (2, 1) 0.0000000, 0.5020475, 0.4979525;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4918794, 0.5081206;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543068091 | p543551889, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5238095, 0.4761905, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4809483, 0.5190517, 0.0000000;
+  (1, 1) 0.2633875, 0.4986117, 0.2380008;
+  (2, 1) 0.0000000, 0.4979658, 0.5020342;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4864025, 0.5135975;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543068391 | p543551889, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5049261, 0.4950739, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.550381, 0.449619, 0.000000;
+  (1, 1) 0.2471242, 0.5073384, 0.2455375;
+  (2, 1) 0.0000000, 0.4833198, 0.5166802;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5042735, 0.4957265;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p392203792 | p522398991, p197252291 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5083933, 0.4916067, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5073171, 0.4926829, 0.0000000;
+  (1, 1) 0.2600840, 0.4966387, 0.2432773;
+  (2, 1) 0.0000000, 0.5004102, 0.4995898;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.496614, 0.503386;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p522398991 | p522334189, p50133089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5012146, 0.4987854, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5105519, 0.4894481, 0.0000000;
+  (1, 1) 0.2452229, 0.5047771, 0.2500000;
+  (2, 1) 0.0000000, 0.4896825, 0.5103175;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4913007, 0.5086993;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543419788 ) {
+  table 0.2502, 0.4955, 0.2543;
+}
+probability ( p522334189 | p543419788, p522279888 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4946237, 0.5053763, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.510305, 0.489695, 0.000000;
+  (1, 1) 0.2518014, 0.5120096, 0.2361890;
+  (2, 1) 0.0000000, 0.4934363, 0.5065637;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4655449, 0.5344551;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p522204687 ) {
+  table 0.2482, 0.4973, 0.2545;
+}
+probability ( p522279888 | p522204687, p547325687 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4920101, 0.5079899, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4891392, 0.5108608, 0.0000000;
+  (1, 1) 0.2511102, 0.5062576, 0.2426322;
+  (2, 1) 0.0, 0.5, 0.5;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4850803, 0.5149197;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p522369890 | p522279888, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5090623, 0.4909377, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4775748, 0.5224252, 0.0000000;
+  (1, 1) 0.2429264, 0.5105093, 0.2465643;
+  (2, 1) 0.0000000, 0.5136826, 0.4863174;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4988124, 0.5011876;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p522449292 | p522369890, p197252291 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.525641, 0.474359, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.502447, 0.497553, 0.000000;
+  (1, 1) 0.2673267, 0.4938119, 0.2388614;
+  (2, 1) 0.0000000, 0.4987277, 0.5012723;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5160089, 0.4839911;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197240391 | p197192390, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4991883, 0.5008117, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4878864, 0.5121136, 0.0000000;
+  (1, 1) 0.2371383, 0.4983923, 0.2644695;
+  (2, 1) 0.0000000, 0.4796557, 0.5203443;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4794629, 0.5205371;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197143789 ) {
+  table 0.2424, 0.4976, 0.2600;
+}
+probability ( p197192390 | p197143789, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5142631, 0.4857369, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4875828, 0.5124172, 0.0000000;
+  (1, 1) 0.2393791, 0.5036765, 0.2569444;
+  (2, 1) 0.0000000, 0.4850115, 0.5149885;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.507109, 0.492891;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197240491 | p197192390, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5227273, 0.4772727, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4695071, 0.5304929, 0.0000000;
+  (1, 1) 0.2423633, 0.5008039, 0.2568328;
+  (2, 1) 0.0000000, 0.4984351, 0.5015649;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4881517, 0.5118483;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197258291 | p197201290, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4967159, 0.5032841, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4892259, 0.5107741, 0.0000000;
+  (1, 1) 0.2576065, 0.4957404, 0.2466531;
+  (2, 1) 0.0000000, 0.5012048, 0.4987952;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4850863, 0.5149137;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197258391 | p197201290, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5147783, 0.4852217, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4948125, 0.5051875, 0.0000000;
+  (1, 1) 0.2515213, 0.4985801, 0.2498986;
+  (2, 1) 0.000000, 0.513253, 0.486747;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5156986, 0.4843014;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197258591 | p197201290, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4942529, 0.5057471, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4604948, 0.5395052, 0.0000000;
+  (1, 1) 0.2328600, 0.5099391, 0.2572008;
+  (2, 1) 0.000000, 0.497992, 0.502008;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5172684, 0.4827316;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197303091 | p197201290, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4942529, 0.5057471, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.509178, 0.490822, 0.000000;
+  (1, 1) 0.2490872, 0.4969574, 0.2539554;
+  (2, 1) 0.0000000, 0.5116466, 0.4883534;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5172684, 0.4827316;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197303191 | p197201290, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5106732, 0.4893268, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5203512, 0.4796488, 0.0000000;
+  (1, 1) 0.2377282, 0.5079108, 0.2543611;
+  (2, 1) 0.0000000, 0.4987952, 0.5012048;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4976452, 0.5023548;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197162589 ) {
+  table 0.2436, 0.5051, 0.2513;
+}
+probability ( p82191389 ) {
+  table 0.2551, 0.4898, 0.2551;
+}
+probability ( p197201290 | p197162589, p82191389 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.503012, 0.496988, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5052889, 0.4947111, 0.0000000;
+  (1, 1) 0.2592593, 0.4962963, 0.2444444;
+  (2, 1) 0.0000000, 0.4681195, 0.5318805;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5050271, 0.4949729;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197303291 | p197201290, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4786535, 0.5213465, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4836393, 0.5163607, 0.0000000;
+  (1, 1) 0.2405680, 0.5107505, 0.2486815;
+  (2, 1) 0.0000000, 0.5028112, 0.4971888;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4843014, 0.5156986;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197288691 | p197229090, p197235390 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4901807, 0.5098193, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5148833, 0.4851167, 0.0000000;
+  (1, 1) 0.2554304, 0.5128721, 0.2316975;
+  (2, 1) 0.0000000, 0.5162055, 0.4837945;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4975689, 0.5024311;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197149689 | p197126088, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4866562, 0.5133438, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4888706, 0.5111294, 0.0000000;
+  (1, 1) 0.2522053, 0.4987971, 0.2489976;
+  (2, 1) 0.0000, 0.4872, 0.5128;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4788169, 0.5211831;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197318792 | p197210690, p197229090 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5352336, 0.4647664, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5104502, 0.4895498, 0.0000000;
+  (1, 1) 0.2419929, 0.4922894, 0.2657177;
+  (2, 1) 0.0000000, 0.5065574, 0.4934426;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5027365, 0.4972635;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197210690 | p197165689, p88014589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4939662, 0.5060338, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5086136, 0.4913864, 0.0000000;
+  (1, 1) 0.2513856, 0.5134600, 0.2351544;
+  (2, 1) 0.0000000, 0.5058457, 0.4941543;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5244648, 0.4755352;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197165689 | p197126088, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4952904, 0.5047096, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4987634, 0.5012366, 0.0000000;
+  (1, 1) 0.2437851, 0.5160385, 0.2401764;
+  (2, 1) 0.0000, 0.5088, 0.4912;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5115907, 0.4884093;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197206590 | p197126088, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4992151, 0.5007849, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5177246, 0.4822754, 0.0000000;
+  (1, 1) 0.2614274, 0.4907779, 0.2477947;
+  (2, 1) 0.0000, 0.5024, 0.4976;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4764189, 0.5235811;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197075886 ) {
+  table 0.2452, 0.5055, 0.2493;
+}
+probability ( p751230786 ) {
+  table 0.2505, 0.4979, 0.2516;
+}
+probability ( p197126088 | p197075886, p751230786 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4780564, 0.5219436, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4863524, 0.5136476, 0.0000000;
+  (1, 1) 0.2540434, 0.4986193, 0.2473373;
+  (2, 1) 0.0000000, 0.4769231, 0.5230769;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5072347, 0.4927653;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197229090 | p197126088, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5235479, 0.4764521, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4905194, 0.5094806, 0.0000000;
+  (1, 1) 0.2530072, 0.5020048, 0.2449880;
+  (2, 1) 0.0000, 0.4896, 0.5104;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5123901, 0.4876099;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197288791 | p197229090, p197235390 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5074627, 0.4925373, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4915527, 0.5084473, 0.0000000;
+  (1, 1) 0.2373290, 0.5124698, 0.2502011;
+  (2, 1) 0.0000000, 0.4893281, 0.5106719;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4910859, 0.5089141;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197276591 | p197180690, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4959807, 0.5040193, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5131579, 0.4868421, 0.0000000;
+  (1, 1) 0.2529058, 0.4877756, 0.2593186;
+  (2, 1) 0.0000000, 0.4912141, 0.5087859;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.514741, 0.485259;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197180690 | p197131388, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5194909, 0.4805091, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4952077, 0.5047923, 0.0000000;
+  (1, 1) 0.2431661, 0.5099959, 0.2468380;
+  (2, 1) 0.0000000, 0.5087719, 0.4912281;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5050742, 0.4949258;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197252391 | p197180790, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5138211, 0.4861789, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5065147, 0.4934853, 0.0000000;
+  (1, 1) 0.2592742, 0.4939516, 0.2467742;
+  (2, 1) 0.0000000, 0.5035857, 0.4964143;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4858985, 0.5141015;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197252591 | p197180790, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.500813, 0.499187, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4991857, 0.5008143, 0.0000000;
+  (1, 1) 0.2463710, 0.5032258, 0.2504032;
+  (2, 1) 0.000000, 0.485259, 0.514741;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5004029, 0.4995971;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197131388 ) {
+  table 0.2508, 0.4989, 0.2503;
+}
+probability ( p197206490 | p197131388, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4900557, 0.5099443, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4928115, 0.5071885, 0.0000000;
+  (1, 1) 0.2439820, 0.4949000, 0.2611179;
+  (2, 1) 0.0000000, 0.5063796, 0.4936204;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4808743, 0.5191257;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197256791 | p197206490, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4718196, 0.5281804, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5123355, 0.4876645, 0.0000000;
+  (1, 1) 0.2476654, 0.4851807, 0.2671539;
+  (2, 1) 0.0000000, 0.5272586, 0.4727414;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4856916, 0.5143084;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197353592 | p197256791, p197263491 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.503413, 0.496587, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5292208, 0.4707792, 0.0000000;
+  (1, 1) 0.245004, 0.511191, 0.243805;
+  (2, 1) 0.0000000, 0.4842671, 0.5157329;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4923208, 0.5076792;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50139889 ) {
+  table 0.2443, 0.5065, 0.2492;
+}
+probability ( p50195390 | p50139889, p50132089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5154639, 0.4845361, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5277325, 0.4722675, 0.0000000;
+  (1, 1) 0.2456210, 0.4936306, 0.2607484;
+  (2, 1) 0.0000000, 0.4955393, 0.5044607;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.494582, 0.505418;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48004891 | p50195390, p630067989 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5069959, 0.4930041, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4843014, 0.5156986, 0.0000000;
+  (1, 1) 0.2568218, 0.4891653, 0.2540128;
+  (2, 1) 0.0000000, 0.4634703, 0.5365297;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5186386, 0.4813614;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630172991 | p630154989, p50133089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5228346, 0.4771654, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4984496, 0.5015504, 0.0000000;
+  (1, 1) 0.2544715, 0.5130081, 0.2325203;
+  (2, 1) 0.0000000, 0.5247209, 0.4752791;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5148356, 0.4851644;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630173091 | p630154989, p50133089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4944882, 0.5055118, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5155039, 0.4844961, 0.0000000;
+  (1, 1) 0.2686992, 0.4800813, 0.2512195;
+  (2, 1) 0.0000000, 0.4792663, 0.5207337;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4835605, 0.5164395;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630147391 | p630154689, p197155489 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5107058, 0.4892942, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5119237, 0.4880763, 0.0000000;
+  (1, 1) 0.2668574, 0.4944830, 0.2386596;
+  (2, 1) 0.000000, 0.485623, 0.514377;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5126324, 0.4873676;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630147591 | p630154689, p197155489 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5107058, 0.4892942, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5190779, 0.4809221, 0.0000000;
+  (1, 1) 0.2468329, 0.5075603, 0.2456069;
+  (2, 1) 0.0000000, 0.5095847, 0.4904153;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5028525, 0.4971475;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630154689 | p197130688, p630810388 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4992175, 0.5007825, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5144695, 0.4855305, 0.0000000;
+  (1, 1) 0.2522784, 0.4921292, 0.2555924;
+  (2, 1) 0.000000, 0.504644, 0.495356;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4988048, 0.5011952;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197130688 ) {
+  table 0.2541, 0.4947, 0.2512;
+}
+probability ( p630154989 | p197130688, p630810388 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.513302, 0.486698, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4895498, 0.5104502, 0.0000000;
+  (1, 1) 0.2572494, 0.4925435, 0.2502071;
+  (2, 1) 0.0000000, 0.5085139, 0.4914861;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5171315, 0.4828685;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630810388 ) {
+  table 0.255, 0.495, 0.250;
+}
+probability ( p630067989 | p630810388, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.492502, 0.507498, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5124805, 0.4875195, 0.0000000;
+  (1, 1) 0.2477329, 0.5193735, 0.2328937;
+  (2, 1) 0.0000000, 0.5104167, 0.4895833;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5059666, 0.4940334;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197263491 | p630067989, p197153289 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4929907, 0.5070093, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4996029, 0.5003971, 0.0000000;
+  (1, 1) 0.2409399, 0.4966149, 0.2624452;
+  (2, 1) 0.0000000, 0.5093725, 0.4906275;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5035019, 0.4964981;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197130288 ) {
+  table 0.2482, 0.5009, 0.2509;
+}
+probability ( p197153289 | p197130288, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5054432, 0.4945568, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4955321, 0.5044679, 0.0000000;
+  (1, 1) 0.2557762, 0.4912850, 0.2529388;
+  (2, 1) 0.0000000, 0.5067514, 0.4932486;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5039809, 0.4960191;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197235390 | p197153289, p88014589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5074875, 0.4925125, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4941569, 0.5058431, 0.0000000;
+  (1, 1) 0.2545809, 0.4955166, 0.2499025;
+  (2, 1) 0.0000000, 0.4956522, 0.5043478;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5056911, 0.4943089;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p751038090 ) {
+  table 0.2608, 0.4925, 0.2467;
+}
+probability ( p88127791 | p751038090, p88067190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5, 0.5, 0.0;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.525553, 0.474447, 0.000000;
+  (1, 1) 0.2368737, 0.5094188, 0.2537074;
+  (2, 1) 0.0000, 0.4928, 0.5072;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4814189, 0.5185811;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p751513589 ) {
+  table 0.2532, 0.4973, 0.2495;
+}
+probability ( p88067190 | p751513589, p392012788 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5108608, 0.4891392, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4852713, 0.5147287, 0.0000000;
+  (1, 1) 0.2559524, 0.5186508, 0.2253968;
+  (2, 1) 0.0000, 0.5128, 0.4872;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4826446, 0.5173554;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p392012788 ) {
+  table 0.2515, 0.5060, 0.2425;
+}
+probability ( p197168789 ) {
+  table 0.2455, 0.5066, 0.2479;
+}
+probability ( p88014589 | p392012788, p893080087 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4992296, 0.5007704, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.477918, 0.522082, 0.000000;
+  (1, 1) 0.2511156, 0.5070994, 0.2417850;
+  (2, 1) 0.0000000, 0.4976303, 0.5023697;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4849653, 0.5150347;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197211690 | p197168789, p88014589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4856922, 0.5143078, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4625099, 0.5374901, 0.0000000;
+  (1, 1) 0.2548785, 0.5005974, 0.2445241;
+  (2, 1) 0.0000, 0.5096, 0.4904;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4873217, 0.5126783;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197314191 | p197211690, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.505627, 0.494373, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4832215, 0.5167785, 0.0000000;
+  (1, 1) 0.2482436, 0.5058548, 0.2459016;
+  (2, 1) 0.0000000, 0.4813896, 0.5186104;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4837662, 0.5162338;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50095388 ) {
+  table 0.2542, 0.4987, 0.2471;
+}
+probability ( p48022391 | p50212890, p630311090 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5012068, 0.4987932, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4867395, 0.5132605, 0.0000000;
+  (1, 1) 0.2333465, 0.5155696, 0.2510840;
+  (2, 1) 0.0000000, 0.4867769, 0.5132231;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5202542, 0.4797458;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630810288 ) {
+  table 0.261, 0.487, 0.252;
+}
+probability ( p50212890 | p50095388, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4753185, 0.5246815, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5046729, 0.4953271, 0.0000000;
+  (1, 1) 0.2642741, 0.4906199, 0.2451060;
+  (2, 1) 0.0000000, 0.5102375, 0.4897625;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5097733, 0.4902267;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630311090 | p630810288, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4979424, 0.5020576, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5113809, 0.4886191, 0.0000000;
+  (1, 1) 0.2484549, 0.5055624, 0.2459827;
+  (2, 1) 0.0000000, 0.5144509, 0.4855491;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4918567, 0.5081433;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48022291 | p50212890, p630311090 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5140788, 0.4859212, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4945398, 0.5054602, 0.0000000;
+  (1, 1) 0.2357115, 0.5080804, 0.2562081;
+  (2, 1) 0.0000000, 0.4785124, 0.5214876;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5011914, 0.4988086;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p230057992 | p48022291, p230757791 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5096308, 0.4903692, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5019701, 0.4980299, 0.0000000;
+  (1, 1) 0.2426108, 0.5016420, 0.2557471;
+  (2, 1) 0.000000, 0.508744, 0.491256;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4862745, 0.5137255;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p230433487 ) {
+  table 0.2422, 0.5001, 0.2577;
+}
+probability ( p603176686 ) {
+  table 0.2569, 0.4961, 0.2470;
+}
+probability ( p230565789 | p230433487, p603176686 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4968504, 0.5031496, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4966833, 0.5033167, 0.0000000;
+  (1, 1) 0.2618094, 0.4951962, 0.2429944;
+  (2, 1) 0.0000000, 0.5178998, 0.4821002;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4768856, 0.5231144;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p230757791 | p230565789, p82144288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5034247, 0.4965753, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5195531, 0.4804469, 0.0000000;
+  (1, 1) 0.2515974, 0.4944089, 0.2539936;
+  (2, 1) 0.0000000, 0.4937107, 0.5062893;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5271013, 0.4728987;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82065086 ) {
+  table 0.2506, 0.5002, 0.2492;
+}
+probability ( p392087690 | p82065086, p82144288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5037221, 0.4962779, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5093604, 0.4906396, 0.0000000;
+  (1, 1) 0.2535211, 0.4945674, 0.2519115;
+  (2, 1) 0.0000000, 0.4714739, 0.5285261;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5137615, 0.4862385;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82349391 | p82258390, p82277591 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4996035, 0.5003965, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.512987, 0.487013, 0.000000;
+  (1, 1) 0.2553105, 0.5000000, 0.2446895;
+  (2, 1) 0.0000, 0.4768, 0.5232;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5060533, 0.4939467;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82345291 | p82258290, p82277591 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5125, 0.4875, 0.0000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4971288, 0.5028712, 0.0000000;
+  (1, 1) 0.2463474, 0.4971591, 0.2564935;
+  (2, 1) 0.0000000, 0.5124298, 0.4875702;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5108608, 0.4891392;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82258290 | p82206789, p82210989 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4833861, 0.5166139, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.517077, 0.482923, 0.000000;
+  (1, 1) 0.2467320, 0.5114379, 0.2418301;
+  (2, 1) 0.0000000, 0.4889976, 0.5110024;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5023364, 0.4976636;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82206789 ) {
+  table 0.2508, 0.4996, 0.2496;
+}
+probability ( p82210989 ) {
+  table 0.2506, 0.4934, 0.2560;
+}
+probability ( p82258390 | p82206789, p82210989 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4992089, 0.5007911, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5019857, 0.4980143, 0.0000000;
+  (1, 1) 0.2557190, 0.4934641, 0.2508170;
+  (2, 1) 0.0000000, 0.4979625, 0.5020375;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4984424, 0.5015576;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82349491 | p82258390, p82277591 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4853291, 0.5146709, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5170455, 0.4829545, 0.0000000;
+  (1, 1) 0.2528595, 0.4881536, 0.2589869;
+  (2, 1) 0.0000, 0.5104, 0.4896;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.527845, 0.472155;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48000191 | p50197590, p630258790 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4964816, 0.5035184, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5007849, 0.4992151, 0.0000000;
+  (1, 1) 0.2454655, 0.5002015, 0.2543329;
+  (2, 1) 0.0000000, 0.4968504, 0.5031496;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5341365, 0.4658635;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48000291 | p50197590, p630258790 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4949179, 0.5050821, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5023548, 0.4976452, 0.0000000;
+  (1, 1) 0.2458686, 0.5102781, 0.2438533;
+  (2, 1) 0.000000, 0.511811, 0.488189;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5140562, 0.4859438;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48110491 | p630384990, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4845779, 0.5154221, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4900239, 0.5099761, 0.0000000;
+  (1, 1) 0.2452907, 0.4852580, 0.2694513;
+  (2, 1) 0.0000000, 0.4830097, 0.5169903;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4969743, 0.5030257;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48110591 | p630384990, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4813312, 0.5186688, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5211492, 0.4788508, 0.0000000;
+  (1, 1) 0.2448812, 0.5032760, 0.2518428;
+  (2, 1) 0.0000000, 0.4975728, 0.5024272;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4629349, 0.5370651;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630088089 ) {
+  table 0.2418, 0.5007, 0.2575;
+}
+probability ( p630384990 | p630088089, p630073589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5019128, 0.4980872, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.515807, 0.484193, 0.000000;
+  (1, 1) 0.2471058, 0.4958084, 0.2570858;
+  (2, 1) 0.000000, 0.515083, 0.484917;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5154812, 0.4845188;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630813788 ) {
+  table 0.2521, 0.4942, 0.2537;
+}
+probability ( p630062489 | p630813788, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5028112, 0.4971888, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5161558, 0.4838442, 0.0000000;
+  (1, 1) 0.2445344, 0.5165992, 0.2388664;
+  (2, 1) 0.0000000, 0.4784988, 0.5215012;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4841076, 0.5158924;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630040991 | p630062489, p630058889 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4873469, 0.5126531, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5016556, 0.4983444, 0.0000000;
+  (1, 1) 0.2425222, 0.5024252, 0.2550525;
+  (2, 1) 0.0000000, 0.5122724, 0.4877276;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4777518, 0.5222482;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630154291 | p630239990, p630388190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.502834, 0.497166, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4968254, 0.5031746, 0.0000000;
+  (1, 1) 0.2519176, 0.5006056, 0.2474768;
+  (2, 1) 0.0000000, 0.4969372, 0.5030628;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4880573, 0.5119427;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630052589 ) {
+  table 0.2522, 0.4938, 0.2540;
+}
+probability ( p630239990 | p630052589, p630058889 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5074627, 0.4925373, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5077805, 0.4922195, 0.0000000;
+  (1, 1) 0.2573529, 0.4963235, 0.2463235;
+  (2, 1) 0.0000000, 0.4882445, 0.5117555;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4898754, 0.5101246;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630475686 ) {
+  table 0.2452, 0.4991, 0.2557;
+}
+probability ( p630058889 | p630475686, p630652587 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4995892, 0.5004108, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4987815, 0.5012185, 0.0000000;
+  (1, 1) 0.2482157, 0.4932593, 0.2585250;
+  (2, 1) 0.0000000, 0.4901652, 0.5098348;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4960064, 0.5039936;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630643987 ) {
+  table 0.2531, 0.4934, 0.2535;
+}
+probability ( p630652587 ) {
+  table 0.2493, 0.5024, 0.2483;
+}
+probability ( p630073589 | p630643987, p630652587 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5085854, 0.4914146, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4973015, 0.5026985, 0.0000000;
+  (1, 1) 0.2544141, 0.5096308, 0.2359551;
+  (2, 1) 0.0000000, 0.4979757, 0.5020243;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5012305, 0.4987695;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630266190 | p630073589, p630068889 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4853273, 0.5146727, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4652449, 0.5347551, 0.0000000;
+  (1, 1) 0.2432866, 0.5066132, 0.2501002;
+  (2, 1) 0.0000000, 0.4849716, 0.5150284;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4995864, 0.5004136;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50241490 | p50132089, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.51681, 0.48319, 0.00000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.492607, 0.507393, 0.000000;
+  (1, 1) 0.2522671, 0.5000000, 0.2477329;
+  (2, 1) 0.000000, 0.486747, 0.513253;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4952607, 0.5047393;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48072391 | p50241490, p630373290 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4862903, 0.5137097, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4735152, 0.5264848, 0.0000000;
+  (1, 1) 0.2494954, 0.5106984, 0.2398062;
+  (2, 1) 0.0000000, 0.5019794, 0.4980206;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4845779, 0.5154221;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630373290 | p630068889, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5250809, 0.4749191, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5040064, 0.4959936, 0.0000000;
+  (1, 1) 0.2579992, 0.4997975, 0.2422033;
+  (2, 1) 0.0000000, 0.5080645, 0.4919355;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4988345, 0.5011655;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630815588 ) {
+  table 0.2509, 0.5012, 0.2479;
+}
+probability ( p630810088 ) {
+  table 0.2533, 0.5000, 0.2467;
+}
+probability ( p630068889 | p630815588, p630810088 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4888535, 0.5111465, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5109667, 0.4890333, 0.0000000;
+  (1, 1) 0.2568047, 0.5041420, 0.2390533;
+  (2, 1) 0.0000000, 0.5137763, 0.4862237;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5118755, 0.4881245;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630373890 | p630068889, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4854369, 0.5145631, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4879808, 0.5120192, 0.0000000;
+  (1, 1) 0.2571891, 0.5014176, 0.2413933;
+  (2, 1) 0.0000000, 0.5048387, 0.4951613;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5027195, 0.4972805;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48197592 | p630373890, p83500691 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4857595, 0.5142405, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5192616, 0.4807384, 0.0000000;
+  (1, 1) 0.2657874, 0.4932054, 0.2410072;
+  (2, 1) 0.0000000, 0.4702929, 0.5297071;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4992272, 0.5007728;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48213092 | p83500691, p48000691 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4929226, 0.5070774, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4984779, 0.5015221, 0.0000000;
+  (1, 1) 0.2588141, 0.4847756, 0.2564103;
+  (2, 1) 0.0000000, 0.4971797, 0.5028203;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5080257, 0.4919743;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p83290288 ) {
+  table 0.2497, 0.4931, 0.2572;
+}
+probability ( p630062389 ) {
+  table 0.2457, 0.5054, 0.2489;
+}
+probability ( p630064189 ) {
+  table 0.2520, 0.5033, 0.2447;
+}
+probability ( p83403790 | p83290288, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4649533, 0.5350467, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5044177, 0.4955823, 0.0000000;
+  (1, 1) 0.2480299, 0.4931564, 0.2588138;
+  (2, 1) 0.0000000, 0.5065334, 0.4934666;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4991909, 0.5008091;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630249690 | p630062389, p630064189 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4926754, 0.5073246, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4951456, 0.5048544, 0.0000000;
+  (1, 1) 0.2565632, 0.5043755, 0.2390613;
+  (2, 1) 0.0000000, 0.5144193, 0.4855807;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5004023, 0.4995977;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p83500691 | p83403790, p630249690 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5128806, 0.4871194, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5187908, 0.4812092, 0.0000000;
+  (1, 1) 0.2454329, 0.5011914, 0.2533757;
+  (2, 1) 0.0000000, 0.4865931, 0.5134069;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4831081, 0.5168919;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48213192 | p83500691, p48000691 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.480433, 0.519567, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4817352, 0.5182648, 0.0000000;
+  (1, 1) 0.2327724, 0.5116186, 0.2556090;
+  (2, 1) 0.0000000, 0.4657534, 0.5342466;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.505618, 0.494382;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48000691 | p50197590, p630258790 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4894449, 0.5105551, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4858713, 0.5141287, 0.0000000;
+  (1, 1) 0.2539299, 0.4941556, 0.2519146;
+  (2, 1) 0.0000000, 0.5031496, 0.4968504;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.513253, 0.486747;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82243490 | p82197489, p82198489 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5154799, 0.4845201, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4851097, 0.5148903, 0.0000000;
+  (1, 1) 0.2467585, 0.4918963, 0.2613452;
+  (2, 1) 0.00000, 0.51473, 0.48527;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5209188, 0.4790812;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82197489 ) {
+  table 0.2563, 0.4979, 0.2458;
+}
+probability ( p82198489 ) {
+  table 0.2581, 0.4966, 0.2453;
+}
+probability ( p82243390 | p82197489, p82198489 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5100619, 0.4899381, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4858934, 0.5141066, 0.0000000;
+  (1, 1) 0.2491896, 0.4886548, 0.2621556;
+  (2, 1) 0.0000000, 0.5032733, 0.4967267;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4938474, 0.5061526;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82292291 | p82243390, p82241490 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4859663, 0.5140337, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5075218, 0.4924782, 0.0000000;
+  (1, 1) 0.2594091, 0.5022258, 0.2383650;
+  (2, 1) 0.0000000, 0.4966722, 0.5033278;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000, 0.524, 0.476;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82241490 | p82121587, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5086478, 0.4913522, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5242399, 0.4757601, 0.0000000;
+  (1, 1) 0.2493020, 0.4898285, 0.2608696;
+  (2, 1) 0.0000000, 0.4922952, 0.5077048;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5003897, 0.4996103;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82050786 ) {
+  table 0.2472, 0.4993, 0.2535;
+}
+probability ( p522082985 ) {
+  table 0.2469, 0.5024, 0.2507;
+}
+probability ( p82218889 | p82121587, p82144288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4956105, 0.5043895, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5175719, 0.4824281, 0.0000000;
+  (1, 1) 0.2657426, 0.5037624, 0.2304950;
+  (2, 1) 0.0000000, 0.4944089, 0.5055911;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4781931, 0.5218069;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82347891 | p82218889, p82206489 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4983713, 0.5016287, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4935655, 0.5064345, 0.0000000;
+  (1, 1) 0.2585521, 0.4860780, 0.2553699;
+  (2, 1) 0.0000000, 0.5089431, 0.4910569;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5012265, 0.4987735;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82338291 | p826030789, p82225690 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4975689, 0.5024311, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4967742, 0.5032258, 0.0000000;
+  (1, 1) 0.2512740, 0.4927479, 0.2559780;
+  (2, 1) 0.0000000, 0.5004088, 0.4995912;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4953775, 0.5046225;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82338391 | p826030789, p82225690 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4983793, 0.5016207, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5217742, 0.4782258, 0.0000000;
+  (1, 1) 0.2548020, 0.4856919, 0.2595061;
+  (2, 1) 0.0000000, 0.4897792, 0.5102208;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4938367, 0.5061633;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82206489 | p82133387, p82144488 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4868526, 0.5131474, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5004023, 0.4995977, 0.0000000;
+  (1, 1) 0.2558515, 0.4971751, 0.2469734;
+  (2, 1) 0.0000000, 0.5197104, 0.4802896;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5162602, 0.4837398;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p826030789 ) {
+  table 0.2449, 0.5083, 0.2468;
+}
+probability ( p82307191 | p82206489, p826030789 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5256724, 0.4743276, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5078989, 0.4921011, 0.0000000;
+  (1, 1) 0.2479596, 0.5060241, 0.2460163;
+  (2, 1) 0.0000000, 0.4935691, 0.5064309;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4893281, 0.5106719;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82422492 | p82307191, p48064091 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4911987, 0.5088013, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4811548, 0.5188452, 0.0000000;
+  (1, 1) 0.2557762, 0.5050669, 0.2391569;
+  (2, 1) 0.0000000, 0.4996221, 0.5003779;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4709163, 0.5290837;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48064091 | p751015990, p50197190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4967213, 0.5032787, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5152263, 0.4847737, 0.0000000;
+  (1, 1) 0.2405738, 0.5102459, 0.2491803;
+  (2, 1) 0.0000000, 0.5063391, 0.4936609;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5189394, 0.4810606;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48064191 | p751015990, p50197190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5204918, 0.4795082, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5218107, 0.4781893, 0.0000000;
+  (1, 1) 0.2434426, 0.5065574, 0.2500000;
+  (2, 1) 0.0000000, 0.4936609, 0.5063391;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4916667, 0.5083333;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82142888 ) {
+  table 0.2458, 0.5030, 0.2512;
+}
+probability ( p82247790 | p82142888, p82152588 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.512215, 0.487785, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4890282, 0.5109718, 0.0000000;
+  (1, 1) 0.2544817, 0.5038971, 0.2416212;
+  (2, 1) 0.0000000, 0.4884298, 0.5115702;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4951456, 0.5048544;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82152588 ) {
+  table 0.2436, 0.5052, 0.2512;
+}
+probability ( p82238890 | p82152588, p82155088 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.512253, 0.487747, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4864217, 0.5135783, 0.0000000;
+  (1, 1) 0.2506920, 0.4926849, 0.2566232;
+  (2, 1) 0.0000000, 0.5132106, 0.4867894;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5015898, 0.4984102;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82334391 | p82238890, p751015990 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.50982, 0.49018, 0.00000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5041806, 0.4958194, 0.0000000;
+  (1, 1) 0.2479142, 0.5045689, 0.2475169;
+  (2, 1) 0.0000000, 0.4869771, 0.5130229;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5058916, 0.4941084;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p751015990 ) {
+  table 0.2495, 0.4980, 0.2525;
+}
+probability ( p48064391 | p751015990, p50197190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5114754, 0.4885246, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4987654, 0.5012346, 0.0000000;
+  (1, 1) 0.2606557, 0.4934426, 0.2459016;
+  (2, 1) 0.0000000, 0.4889065, 0.5110935;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5151515, 0.4848485;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50197190 | p50133689, p50140189 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5233494, 0.4766506, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.497619, 0.502381, 0.000000;
+  (1, 1) 0.2466027, 0.5147882, 0.2386091;
+  (2, 1) 0.0000000, 0.4776471, 0.5223529;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4816879, 0.5183121;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630258690 | p630844188, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4988327, 0.5011673, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.521251, 0.478749, 0.000000;
+  (1, 1) 0.2679291, 0.4875101, 0.2445608;
+  (2, 1) 0.0000000, 0.4747557, 0.5252443;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4846819, 0.5153181;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48013791 | p630258690, p50197390 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4833055, 0.5166945, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5063091, 0.4936909, 0.0000000;
+  (1, 1) 0.2562550, 0.4927361, 0.2510089;
+  (2, 1) 0.0000000, 0.4933229, 0.5066771;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5143091, 0.4856909;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50197390 | p50133689, p50140189 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5169082, 0.4830918, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5119048, 0.4880952, 0.0000000;
+  (1, 1) 0.2326139, 0.5211831, 0.2462030;
+  (2, 1) 0.0000000, 0.5160784, 0.4839216;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5191083, 0.4808917;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50197590 | p50133689, p50140189 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4855072, 0.5144928, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4888889, 0.5111111, 0.0000000;
+  (1, 1) 0.2494005, 0.5015987, 0.2490008;
+  (2, 1) 0.0000000, 0.5129412, 0.4870588;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4960191, 0.5039809;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50133689 ) {
+  table 0.2454, 0.5000, 0.2546;
+}
+probability ( p50140189 ) {
+  table 0.2384, 0.5037, 0.2579;
+}
+probability ( p50197290 | p50133689, p50140189 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5080515, 0.4919485, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4944444, 0.5055556, 0.0000000;
+  (1, 1) 0.2450040, 0.4928058, 0.2621902;
+  (2, 1) 0.000000, 0.534902, 0.465098;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5031847, 0.4968153;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48007991 | p50197290, p82228290 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5049917, 0.4950083, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4942529, 0.5057471, 0.0000000;
+  (1, 1) 0.2475326, 0.5128306, 0.2396368;
+  (2, 1) 0.0000000, 0.4946237, 0.5053763;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000, 0.5256, 0.4744;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82228290 | p82105287, p82144288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4867043, 0.5132957, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5229215, 0.4770785, 0.0000000;
+  (1, 1) 0.2344, 0.5056, 0.2600;
+  (2, 1) 0.0000000, 0.5169082, 0.4830918;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5098814, 0.4901186;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82105287 ) {
+  table 0.2528, 0.5006, 0.2466;
+}
+probability ( p82228490 | p82105287, p82144288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5052377, 0.4947623, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5073815, 0.4926185, 0.0000000;
+  (1, 1) 0.2452, 0.5004, 0.2544;
+  (2, 1) 0.0000000, 0.4959742, 0.5040258;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5059289, 0.4940711;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82277591 | p82228490, p82218289 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5125101, 0.4874899, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5158151, 0.4841849, 0.0000000;
+  (1, 1) 0.2640382, 0.4898447, 0.2461171;
+  (2, 1) 0.0000000, 0.5081301, 0.4918699;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4992038, 0.5007962;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82182889 ) {
+  table 0.2512, 0.4962, 0.2526;
+}
+probability ( p82218289 | p82182889, p547497788 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4893617, 0.5106383, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5059952, 0.4940048, 0.0000000;
+  (1, 1) 0.2492952, 0.4965767, 0.2541281;
+  (2, 1) 0.0000000, 0.5191257, 0.4808743;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4852824, 0.5147176;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543151292 | p751106191, p543709391 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4794635, 0.5205365, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4931174, 0.5068826, 0.0000000;
+  (1, 1) 0.2472089, 0.4952153, 0.2575758;
+  (2, 1) 0.0000000, 0.5027712, 0.4972288;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4820593, 0.5179407;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p751106191 ) {
+  table 0.2469, 0.4983, 0.2548;
+}
+probability ( p543151392 | p751106191, p543709391 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4895222, 0.5104778, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4906883, 0.5093117, 0.0000000;
+  (1, 1) 0.2460128, 0.4964115, 0.2575758;
+  (2, 1) 0.0000000, 0.5193983, 0.4806017;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4890796, 0.5109204;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543709391 | p543583789, p50133089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4918831, 0.5081169, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4983633, 0.5016367, 0.0000000;
+  (1, 1) 0.2475923, 0.4935795, 0.2588283;
+  (2, 1) 0.0000000, 0.4891473, 0.5108527;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5023847, 0.4976153;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543420288 ) {
+  table 0.2442, 0.5135, 0.2423;
+}
+probability ( p543583789 | p543420288, p547497788 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4821002, 0.5178998, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4934641, 0.5065359, 0.0000000;
+  (1, 1) 0.2503852, 0.5030817, 0.2465331;
+  (2, 1) 0.0000000, 0.4753138, 0.5246862;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4828393, 0.5171607;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82183689 ) {
+  table 0.2616, 0.4969, 0.2415;
+}
+probability ( p547497788 ) {
+  table 0.2451, 0.5015, 0.2534;
+}
+probability ( p82266890 | p82183689, p547497788 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5130719, 0.4869281, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5121951, 0.4878049, 0.0000000;
+  (1, 1) 0.2556726, 0.4947326, 0.2495948;
+  (2, 1) 0.0000000, 0.5004049, 0.4995951;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5097886, 0.4902114;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82332291 | p82266890, p82261490 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5159236, 0.4840764, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.504943, 0.495057, 0.000000;
+  (1, 1) 0.2539419, 0.4767635, 0.2692946;
+  (2, 1) 0.0000000, 0.4975884, 0.5024116;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5206547, 0.4793453;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82261490 | p82211489, p82206389 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5044825, 0.4955175, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4735974, 0.5264026, 0.0000000;
+  (1, 1) 0.2474708, 0.4937743, 0.2587549;
+  (2, 1) 0.0000000, 0.5076061, 0.4923939;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5180251, 0.4819749;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82303591 | p82211489, p82206389 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5126324, 0.4873676, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5074257, 0.4925743, 0.0000000;
+  (1, 1) 0.2350195, 0.5315175, 0.2334630;
+  (2, 1) 0.0000000, 0.4891914, 0.5108086;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4788401, 0.5211599;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82141488 ) {
+  table 0.2481, 0.5045, 0.2474;
+}
+probability ( p197130888 ) {
+  table 0.2486, 0.4983, 0.2531;
+}
+probability ( p82303691 | p82211489, p82206389 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4955175, 0.5044825, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5206271, 0.4793729, 0.0000000;
+  (1, 1) 0.2490272, 0.4988327, 0.2521401;
+  (2, 1) 0.0000000, 0.4915933, 0.5084067;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4905956, 0.5094044;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82211489 | p82141488, p197130888 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4911003, 0.5088997, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4987932, 0.5012068, 0.0000000;
+  (1, 1) 0.2411036, 0.5189924, 0.2399040;
+  (2, 1) 0.0000000, 0.4987893, 0.5012107;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5206422, 0.4793578;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82206389 | p82133387, p82144488 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4940239, 0.5059761, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4818986, 0.5181014, 0.0000000;
+  (1, 1) 0.2627119, 0.4955609, 0.2417272;
+  (2, 1) 0.0000000, 0.5076428, 0.4923572;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4926829, 0.5073171;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82261890 | p82211489, p82206389 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5118174, 0.4881826, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4884488, 0.5115512, 0.0000000;
+  (1, 1) 0.2474708, 0.5023346, 0.2501946;
+  (2, 1) 0.0000000, 0.4891914, 0.5108086;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5172414, 0.4827586;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82366892 | p82261890, p82229690 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4894822, 0.5105178, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5095541, 0.4904459, 0.0000000;
+  (1, 1) 0.2475806, 0.4983871, 0.2540323;
+  (2, 1) 0.000000, 0.488195, 0.511805;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.496732, 0.503268;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82185289 ) {
+  table 0.2538, 0.4984, 0.2478;
+}
+probability ( p82191289 ) {
+  table 0.2537, 0.4925, 0.2538;
+}
+probability ( p82229690 | p82185289, p82191289 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5019952, 0.4980048, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4893784, 0.5106216, 0.0000000;
+  (1, 1) 0.2497942, 0.5086420, 0.2415638;
+  (2, 1) 0.0000000, 0.4885621, 0.5114379;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5111453, 0.4888547;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82280791 | p82229690, p82224990 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5181543, 0.4818457, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4918161, 0.5081839, 0.0000000;
+  (1, 1) 0.2418489, 0.5080479, 0.2501032;
+  (2, 1) 0.0000000, 0.5453789, 0.4546211;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4746933, 0.5253067;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82224990 | p82133387, p82144488 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5195219, 0.4804781, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5164924, 0.4835076, 0.0000000;
+  (1, 1) 0.2522195, 0.4882970, 0.2594835;
+  (2, 1) 0.0000000, 0.5084473, 0.4915527;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4666667, 0.5333333;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82225190 | p82133387, p82144488 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5139442, 0.4860558, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5132743, 0.4867257, 0.0000000;
+  (1, 1) 0.2489911, 0.5004036, 0.2506053;
+  (2, 1) 0.0000000, 0.4867257, 0.5132743;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4894309, 0.5105691;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p441290591 | p441231590, p441214590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5167464, 0.4832536, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4907779, 0.5092221, 0.0000000;
+  (1, 1) 0.2589178, 0.4929860, 0.2480962;
+  (2, 1) 0.0000000, 0.4931174, 0.5068826;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4979525, 0.5020475;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p441324091 | p441231890, p441183089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4922575, 0.5077425, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4904913, 0.5095087, 0.0000000;
+  (1, 1) 0.2520677, 0.4883813, 0.2595510;
+  (2, 1) 0.0000000, 0.5076923, 0.4923077;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4968203, 0.5031797;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p441324191 | p441231890, p441183089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4898126, 0.5101874, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5110935, 0.4889065, 0.0000000;
+  (1, 1) 0.2371012, 0.5194959, 0.2434029;
+  (2, 1) 0.0000000, 0.4807692, 0.5192308;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0, 0.5, 0.5;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p441231890 | p441119488, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5015625, 0.4984375, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.496748, 0.503252, 0.000000;
+  (1, 1) 0.2390342, 0.5078471, 0.2531187;
+  (2, 1) 0.0000000, 0.5016103, 0.4983897;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5056361, 0.4943639;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p441119488 ) {
+  table 0.2514, 0.5007, 0.2479;
+}
+probability ( p441231590 | p441119488, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4921875, 0.5078125, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5178862, 0.4821138, 0.0000000;
+  (1, 1) 0.2507042, 0.4917505, 0.2575453;
+  (2, 1) 0.0, 0.5, 0.5;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5072464, 0.4927536;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p441290691 | p441231590, p441214590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5, 0.5, 0.0;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5100241, 0.4899759, 0.0000000;
+  (1, 1) 0.2513026, 0.5098196, 0.2388778;
+  (2, 1) 0.0000000, 0.4906883, 0.5093117;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4963145, 0.5036855;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p441118988 ) {
+  table 0.2541, 0.5007, 0.2452;
+}
+probability ( p441214590 | p441118988, p82133387 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4853986, 0.5146014, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5048154, 0.4951846, 0.0000000;
+  (1, 1) 0.2602410, 0.4819277, 0.2578313;
+  (2, 1) 0.0000000, 0.5118174, 0.4881826;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000, 0.5008, 0.4992;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p609091487 ) {
+  table 0.2441, 0.4987, 0.2572;
+}
+probability ( p609134289 | p609091487, p82133387 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5080775, 0.4919225, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5211726, 0.4788274, 0.0000000;
+  (1, 1) 0.2354117, 0.4944045, 0.2701839;
+  (2, 1) 0.0000000, 0.4914842, 0.5085158;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5084202, 0.4915798;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82133387 ) {
+  table 0.2490, 0.4963, 0.2547;
+}
+probability ( p82225690 | p82133387, p82144488 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4956175, 0.5043825, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4738536, 0.5261464, 0.0000000;
+  (1, 1) 0.2506053, 0.4826473, 0.2667474;
+  (2, 1) 0.0000000, 0.4947707, 0.5052293;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5113821, 0.4886179;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82350491 | p95084689, p82251690 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5024194, 0.4975806, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4929356, 0.5070644, 0.0000000;
+  (1, 1) 0.2450671, 0.5181531, 0.2367798;
+  (2, 1) 0.0000000, 0.4828164, 0.5171836;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5200984, 0.4799016;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p958249187 ) {
+  table 0.2488, 0.4979, 0.2533;
+}
+probability ( p95141490 | p958249187, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4771084, 0.5228916, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4654896, 0.5345104, 0.0000000;
+  (1, 1) 0.2508052, 0.5028180, 0.2463768;
+  (2, 1) 0.0000000, 0.4938875, 0.5061125;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000, 0.5032, 0.4968;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p95247691 | p95141490, p95147490 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5057737, 0.4942263, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5093537, 0.4906463, 0.0000000;
+  (1, 1) 0.2380952, 0.5141309, 0.2477739;
+  (2, 1) 0.000000, 0.509539, 0.490461;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000, 0.4888, 0.5112;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p95090289 ) {
+  table 0.2495, 0.5044, 0.2461;
+}
+probability ( p95147490 | p95090289, p95084689 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5086751, 0.4913249, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5094937, 0.4905063, 0.0000000;
+  (1, 1) 0.2438434, 0.4997981, 0.2563585;
+  (2, 1) 0.0000000, 0.5247604, 0.4752396;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5065435, 0.4934565;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627412591 | p627344390, p95084689 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5141066, 0.4858934, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4983444, 0.5016556, 0.0000000;
+  (1, 1) 0.2371619, 0.5205802, 0.2422579;
+  (2, 1) 0.0000000, 0.5008104, 0.4991896;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5075577, 0.4924423;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627396491 | p627343790, p627350790 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4648343, 0.5351657, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4726531, 0.5273469, 0.0000000;
+  (1, 1) 0.2556036, 0.4935116, 0.2508848;
+  (2, 1) 0.0000000, 0.4968254, 0.5031746;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4911859, 0.5088141;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627343790 | p627275788, p627294789 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4975329, 0.5024671, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4924623, 0.5075377, 0.0000000;
+  (1, 1) 0.2459807, 0.5060289, 0.2479904;
+  (2, 1) 0.0000000, 0.4810231, 0.5189769;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5031348, 0.4968652;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627275788 ) {
+  table 0.2484, 0.4980, 0.2536;
+}
+probability ( p627294789 ) {
+  table 0.2519, 0.4894, 0.2587;
+}
+probability ( p627344390 | p627275788, p627294789 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4909539, 0.5090461, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5, 0.5, 0.0;
+  (1, 1) 0.2415595, 0.5120579, 0.2463826;
+  (2, 1) 0.0000000, 0.5173267, 0.4826733;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5015674, 0.4984326;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627412991 | p627344390, p95084689 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5054859, 0.4945141, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4859272, 0.5140728, 0.0000000;
+  (1, 1) 0.2653861, 0.4849079, 0.2497060;
+  (2, 1) 0.0, 0.5, 0.5;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5306285, 0.4693715;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p958237987 ) {
+  table 0.2562, 0.4973, 0.2465;
+}
+probability ( p627204487 ) {
+  table 0.2512, 0.4959, 0.2529;
+}
+probability ( p547328787 ) {
+  table 0.2487, 0.4966, 0.2547;
+}
+probability ( p603176486 ) {
+  table 0.2481, 0.5080, 0.2439;
+}
+probability ( p95029088 | p958237987, p627204487 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5052889, 0.4947111, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4858934, 0.5141066, 0.0000000;
+  (1, 1) 0.2515018, 0.5102123, 0.2382859;
+  (2, 1) 0.0000000, 0.5236088, 0.4763912;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.500401, 0.499599;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p547469388 | p547328787, p603176486 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4806452, 0.5193548, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.490566, 0.509434, 0.000000;
+  (1, 1) 0.2646117, 0.4939952, 0.2413931;
+  (2, 1) 0.0000000, 0.5030534, 0.4969466;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5040717, 0.4959283;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p95084689 | p95029088, p547469388 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5122336, 0.4877664, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4950115, 0.5049885, 0.0000000;
+  (1, 1) 0.2514994, 0.4914034, 0.2570972;
+  (2, 1) 0.0000000, 0.5189769, 0.4810231;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4804688, 0.5195312;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82350591 | p95084689, p82251690 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5314516, 0.4685484, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.510989, 0.489011, 0.000000;
+  (1, 1) 0.2529597, 0.5000000, 0.2470403;
+  (2, 1) 0.0000000, 0.4861693, 0.5138307;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5045119, 0.4954881;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630815088 ) {
+  table 0.2512, 0.4968, 0.2520;
+}
+probability ( p82251690 | p630815088, p82144488 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4870791, 0.5129209, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4848, 0.5152, 0.0000;
+  (1, 1) 0.2473642, 0.4922952, 0.2603406;
+  (2, 1) 0.0000000, 0.5304487, 0.4695513;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4816327, 0.5183673;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p237082692 | p237011591, p82299691 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4944089, 0.5055911, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5023184, 0.4976816, 0.0000000;
+  (1, 1) 0.2392094, 0.5191610, 0.2416297;
+  (2, 1) 0.0000000, 0.4952532, 0.5047468;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4873217, 0.5126783;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p251337389 ) {
+  table 0.2493, 0.5024, 0.2483;
+}
+probability ( p251226287 ) {
+  table 0.2543, 0.4912, 0.2545;
+}
+probability ( p237016791 | p251428590, p251476390 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4984825, 0.5015175, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4693356, 0.5306644, 0.0000000;
+  (1, 1) 0.2499005, 0.4966176, 0.2534819;
+  (2, 1) 0.0000000, 0.5108959, 0.4891041;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0, 0.5, 0.5;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p251336689 ) {
+  table 0.2409, 0.5040, 0.2551;
+}
+probability ( p230537588 ) {
+  table 0.2441, 0.5095, 0.2464;
+}
+probability ( p251428590 | p251336689, p230537588 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4715773, 0.5284227, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4868852, 0.5131148, 0.0000000;
+  (1, 1) 0.2445568, 0.4988336, 0.2566096;
+  (2, 1) 0.0000000, 0.4973139, 0.5026861;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5077933, 0.4922067;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p237017391 | p251428590, p251476390 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5136571, 0.4863429, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5034072, 0.4965928, 0.0000000;
+  (1, 1) 0.2475129, 0.4914445, 0.2610426;
+  (2, 1) 0.0000000, 0.4947538, 0.5052462;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5114379, 0.4885621;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48131791 | p630388990, p630192689 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5150115, 0.4849885, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5023659, 0.4976341, 0.0000000;
+  (1, 1) 0.2526316, 0.4923077, 0.2550607;
+  (2, 1) 0.000000, 0.505538, 0.494462;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000, 0.4832, 0.5168;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630388990 ) {
+  table 0.2510, 0.5019, 0.2471;
+}
+probability ( p48131891 | p630388990, p630192689 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4757506, 0.5242494, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5149842, 0.4850158, 0.0000000;
+  (1, 1) 0.2534413, 0.5004049, 0.2461538;
+  (2, 1) 0.0000000, 0.4968354, 0.5031646;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000, 0.5144, 0.4856;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630652887 ) {
+  table 0.2538, 0.5024, 0.2438;
+}
+probability ( p82152788 ) {
+  table 0.2497, 0.5031, 0.2472;
+}
+probability ( p251388889 ) {
+  table 0.2504, 0.5024, 0.2472;
+}
+probability ( p630192689 | p630652887, p82152788 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4968051, 0.5031949, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5007776, 0.4992224, 0.0000000;
+  (1, 1) 0.2430611, 0.5071372, 0.2498017;
+  (2, 1) 0.0000000, 0.4840556, 0.5159444;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000, 0.4848, 0.5152;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p251494491 | p251388889, p630192689 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4692308, 0.5307692, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5240347, 0.4759653, 0.0000000;
+  (1, 1) 0.2489879, 0.4854251, 0.2655870;
+  (2, 1) 0.0000000, 0.4901029, 0.5098971;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5055821, 0.4944179;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p251564791 | p251494491, p251476190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.48382, 0.51618, 0.00000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4894309, 0.5105691, 0.0000000;
+  (1, 1) 0.2482897, 0.5070423, 0.2446680;
+  (2, 1) 0.0000000, 0.4909662, 0.5090338;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0, 0.5, 0.5;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p251476190 | p251340389, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4979592, 0.5020408, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5331735, 0.4668265, 0.0000000;
+  (1, 1) 0.2504052, 0.5040519, 0.2455429;
+  (2, 1) 0.0000000, 0.5048465, 0.4951535;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5158546, 0.4841454;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p251506491 | p251372589, p82144288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5133779, 0.4866221, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5339652, 0.4660348, 0.0000000;
+  (1, 1) 0.25625, 0.51250, 0.23125;
+  (2, 1) 0.0000000, 0.4987531, 0.5012469;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4820593, 0.5179407;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p807012287 ) {
+  table 0.2474, 0.5036, 0.2490;
+}
+probability ( p251372589 | p807012287, p251260288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4938744, 0.5061256, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4980361, 0.5019639, 0.0000000;
+  (1, 1) 0.2480127, 0.5015898, 0.2503975;
+  (2, 1) 0.0000000, 0.5105882, 0.4894118;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5222405, 0.4777595;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p251260288 ) {
+  table 0.2512, 0.5064, 0.2424;
+}
+probability ( p230474587 ) {
+  table 0.2463, 0.5011, 0.2526;
+}
+probability ( p251340389 | p251260288, p230474587 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5085435, 0.4914565, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.517023, 0.482977, 0.000000;
+  (1, 1) 0.2321219, 0.5091833, 0.2586948;
+  (2, 1) 0.0000000, 0.4768713, 0.5231287;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5023511, 0.4976489;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p251463690 | p251337389, p251226287 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5042802, 0.4957198, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4979625, 0.5020375, 0.0000000;
+  (1, 1) 0.2564205, 0.4939807, 0.2495987;
+  (2, 1) 0.000000, 0.503772, 0.496228;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4915798, 0.5084202;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p251476390 | p251340389, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.515102, 0.484898, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.518785, 0.481215, 0.000000;
+  (1, 1) 0.2730956, 0.4890600, 0.2378444;
+  (2, 1) 0.0000000, 0.5016155, 0.4983845;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5019335, 0.4980665;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p237011591 | p251463690, p251476390 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5007692, 0.4992308, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4885194, 0.5114806, 0.0000000;
+  (1, 1) 0.2390065, 0.5061075, 0.2548860;
+  (2, 1) 0.0000000, 0.4879867, 0.5120133;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5015949, 0.4984051;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p237082792 | p237011591, p82299691 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5167732, 0.4832268, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5177743, 0.4822257, 0.0000000;
+  (1, 1) 0.2545381, 0.4909238, 0.2545381;
+  (2, 1) 0.0000000, 0.4857595, 0.5142405;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5245642, 0.4754358;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82299691 | p82144488, p50133089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5188088, 0.4811912, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4903846, 0.5096154, 0.0000000;
+  (1, 1) 0.2554568, 0.4951496, 0.2493937;
+  (2, 1) 0.0000000, 0.5171607, 0.4828393;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5115321, 0.4884679;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82144488 | p82089087, p750261487 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5008117, 0.4991883, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5136656, 0.4863344, 0.0000000;
+  (1, 1) 0.2549256, 0.4913550, 0.2537193;
+  (2, 1) 0.0000000, 0.4996169, 0.5003831;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5214626, 0.4785374;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82089087 ) {
+  table 0.2460, 0.4977, 0.2563;
+}
+probability ( p82121587 | p82050786, p522082985 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5094185, 0.4905815, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4859736, 0.5140264, 0.0000000;
+  (1, 1) 0.2485230, 0.4938952, 0.2575817;
+  (2, 1) 0.0000000, 0.5113904, 0.4886096;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5344688, 0.4655312;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82144288 | p82089087, p750261487 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5008117, 0.4991883, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4734727, 0.5265273, 0.0000000;
+  (1, 1) 0.2436671, 0.5050261, 0.2513068;
+  (2, 1) 0.0000000, 0.4904215, 0.5095785;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5158983, 0.4841017;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197180790 | p197131388, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5043755, 0.4956245, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5079872, 0.4920128, 0.0000000;
+  (1, 1) 0.2496940, 0.4924521, 0.2578539;
+  (2, 1) 0.0000000, 0.4968102, 0.5031898;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5144418, 0.4855582;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82218589 | p82121587, p82144288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5083799, 0.4916201, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5039936, 0.4960064, 0.0000000;
+  (1, 1) 0.249901, 0.489901, 0.260198;
+  (2, 1) 0.0000000, 0.4904153, 0.5095847;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5070093, 0.4929907;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197252291 | p197180790, p82218589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5065041, 0.4934959, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4894137, 0.5105863, 0.0000000;
+  (1, 1) 0.2407258, 0.4862903, 0.2729839;
+  (2, 1) 0.0000000, 0.4924303, 0.5075697;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4883159, 0.5116841;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p522435092 | p197252291, p522361390 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5244587, 0.4755413, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4959283, 0.5040717, 0.0000000;
+  (1, 1) 0.2680456, 0.4702406, 0.2617138;
+  (2, 1) 0.0000000, 0.4876774, 0.5123226;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.497939, 0.502061;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p522361390 | p522284388, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4995851, 0.5004149, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5052975, 0.4947025, 0.0000000;
+  (1, 1) 0.2512984, 0.4862165, 0.2624850;
+  (2, 1) 0.0000000, 0.4906275, 0.5093725;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4944708, 0.5055292;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p522208187 ) {
+  table 0.2488, 0.5081, 0.2431;
+}
+probability ( p522284388 | p522208187, p547325687 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4995971, 0.5004029, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.509342, 0.490658, 0.000000;
+  (1, 1) 0.2564103, 0.4800789, 0.2635108;
+  (2, 1) 0.0000000, 0.4983633, 0.5016367;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5103448, 0.4896552;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543416288 ) {
+  table 0.2490, 0.4897, 0.2613;
+}
+probability ( p547325687 ) {
+  table 0.2445, 0.4988, 0.2567;
+}
+probability ( p543551889 | p543416288, p547325687 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5086059, 0.4913941, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5008065, 0.4991935, 0.0000000;
+  (1, 1) 0.2461413, 0.5056864, 0.2481722;
+  (2, 1) 0.0000000, 0.5054432, 0.4945568;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4886096, 0.5113904;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p543068491 | p543551889, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.499179, 0.500821, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5097375, 0.4902625, 0.0000000;
+  (1, 1) 0.2530742, 0.4982150, 0.2487108;
+  (2, 1) 0.0000000, 0.5036615, 0.4963385;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5205905, 0.4794095;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630194791 | p630319390, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5117925, 0.4882075, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5064309, 0.4935691, 0.0000000;
+  (1, 1) 0.2566910, 0.4975669, 0.2457421;
+  (2, 1) 0.0000000, 0.5053235, 0.4946765;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5156006, 0.4843994;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630194891 | p630319390, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.504717, 0.495283, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4694534, 0.5305466, 0.0000000;
+  (1, 1) 0.2530414, 0.5072993, 0.2396594;
+  (2, 1) 0.0000000, 0.5020475, 0.4979525;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4906396, 0.5093604;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630019789 ) {
+  table 0.2501, 0.5044, 0.2455;
+}
+probability ( p630319390 | p630019789, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4923449, 0.5076551, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4921811, 0.5078189, 0.0000000;
+  (1, 1) 0.2478053, 0.5079808, 0.2442139;
+  (2, 1) 0.0000000, 0.4793522, 0.5206478;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5034695, 0.4965305;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630194991 | p630319390, p630388590 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4827044, 0.5172956, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4983923, 0.5016077, 0.0000000;
+  (1, 1) 0.2635848, 0.4785077, 0.2579075;
+  (2, 1) 0.0000000, 0.4930385, 0.5069615;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4984399, 0.5015601;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630388590 ) {
+  table 0.2487, 0.4931, 0.2582;
+}
+probability ( p630184291 | p630388590, p630322190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4995823, 0.5004177, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4805511, 0.5194489, 0.0000000;
+  (1, 1) 0.2567951, 0.4933063, 0.2498986;
+  (2, 1) 0.000000, 0.507657, 0.492343;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5208826, 0.4791174;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630322190 | p630845888, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4886548, 0.5113452, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4855769, 0.5144231, 0.0000000;
+  (1, 1) 0.2418642, 0.4933708, 0.2647650;
+  (2, 1) 0.0000000, 0.5127153, 0.4872847;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4925262, 0.5074738;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630845888 ) {
+  table 0.2460, 0.5061, 0.2479;
+}
+probability ( p630322390 | p630845888, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4975689, 0.5024311, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4799679, 0.5200321, 0.0000000;
+  (1, 1) 0.2563278, 0.4901567, 0.2535155;
+  (2, 1) 0.0000000, 0.5217391, 0.4782609;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.470852, 0.529148;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630091391 | p630322390, p630258890 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4696262, 0.5303738, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5224359, 0.4775641, 0.0000000;
+  (1, 1) 0.2586777, 0.4938017, 0.2475207;
+  (2, 1) 0.0000000, 0.4947538, 0.5052462;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4948859, 0.5051141;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630258890 | p630844188, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4785992, 0.5214008, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5196472, 0.4803528, 0.0000000;
+  (1, 1) 0.2506044, 0.4907333, 0.2586624;
+  (2, 1) 0.0000000, 0.4910423, 0.5089577;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4469756, 0.5530244;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630844188 ) {
+  table 0.2506, 0.5040, 0.2454;
+}
+probability ( p630258790 | p630844188, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4840467, 0.5159533, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5068164, 0.4931836, 0.0000000;
+  (1, 1) 0.2497985, 0.4899275, 0.2602740;
+  (2, 1) 0.0000000, 0.5089577, 0.4910423;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5168892, 0.4831108;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630217392 | p630258790, p630328990 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4948859, 0.5051141, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4721066, 0.5278934, 0.0000000;
+  (1, 1) 0.2543582, 0.4869255, 0.2587163;
+  (2, 1) 0.0000000, 0.4947454, 0.5052546;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.495935, 0.504065;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630328990 | p630043389, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5126324, 0.4873676, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4932054, 0.5067946, 0.0000000;
+  (1, 1) 0.2566053, 0.4747798, 0.2686149;
+  (2, 1) 0.0000000, 0.5020713, 0.4979287;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5193798, 0.4806202;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630655987 ) {
+  table 0.2431, 0.5103, 0.2466;
+}
+probability ( p630043389 | p630655987, p893080087 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.484252, 0.515748, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4962779, 0.5037221, 0.0000000;
+  (1, 1) 0.2595183, 0.4875680, 0.2529138;
+  (2, 1) 0.0000000, 0.5263158, 0.4736842;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4908658, 0.5091342;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p893080087 ) {
+  table 0.2500, 0.4999, 0.2501;
+}
+probability ( p50132089 | p893080087, p630501586 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.530024, 0.469976, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4782264, 0.5217736, 0.0000000;
+  (1, 1) 0.2478736, 0.4933171, 0.2588092;
+  (2, 1) 0.000000, 0.499599, 0.500401;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5089774, 0.4910226;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630501586 ) {
+  table 0.2502, 0.4979, 0.2519;
+}
+probability ( p441046286 ) {
+  table 0.2518, 0.4942, 0.2540;
+}
+probability ( p547261686 ) {
+  table 0.2489, 0.5018, 0.2493;
+}
+probability ( p441134788 | p441046286, p547261686 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4897288, 0.5102712, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.494391, 0.505609, 0.000000;
+  (1, 1) 0.2503981, 0.4856688, 0.2639331;
+  (2, 1) 0.0000000, 0.5071542, 0.4928458;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4888706, 0.5111294;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p441183089 | p441134788, p82150688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4782958, 0.5217042, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5, 0.5, 0.0;
+  (1, 1) 0.2468329, 0.5124642, 0.2407029;
+  (2, 1) 0.0000000, 0.5100241, 0.4899759;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4858713, 0.5141287;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82318091 | p82150988, p50133089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4778613, 0.5221387, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4686495, 0.5313505, 0.0000000;
+  (1, 1) 0.2461413, 0.5016247, 0.2522340;
+  (2, 1) 0.0000000, 0.4799692, 0.5200308;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4907183, 0.5092817;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82318191 | p82150988, p50133089 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5104428, 0.4895572, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5040193, 0.4959807, 0.0000000;
+  (1, 1) 0.2591389, 0.4995938, 0.2412673;
+  (2, 1) 0.0000000, 0.5130971, 0.4869029;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.488297, 0.511703;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82150988 | p82105387, p750261487 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5061325, 0.4938675, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4983974, 0.5016026, 0.0000000;
+  (1, 1) 0.2646021, 0.4829479, 0.2524500;
+  (2, 1) 0.0000000, 0.4915117, 0.5084883;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4759615, 0.5240385;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p392115490 | p82105387, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4923572, 0.5076428, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5053061, 0.4946939, 0.0000000;
+  (1, 1) 0.2478018, 0.5083933, 0.2438050;
+  (2, 1) 0.0000000, 0.4682927, 0.5317073;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4917776, 0.5082224;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p392115590 | p82105387, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4802896, 0.5197104, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5134694, 0.4865306, 0.0000000;
+  (1, 1) 0.2501998, 0.5027978, 0.2470024;
+  (2, 1) 0.0000000, 0.4821138, 0.5178862;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4980423, 0.5019577;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82105387 ) {
+  table 0.2493, 0.5022, 0.2485;
+}
+probability ( p609110188 ) {
+  table 0.2448, 0.4963, 0.2589;
+}
+probability ( p82150688 | p82105387, p750261487 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5077678, 0.4922322, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4863782, 0.5136218, 0.0000000;
+  (1, 1) 0.2504900, 0.4888279, 0.2606821;
+  (2, 1) 0.0000000, 0.4947454, 0.5052546;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5080128, 0.4919872;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p609133389 | p609110188, p82150688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5083004, 0.4916996, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5004062, 0.4995938, 0.0000000;
+  (1, 1) 0.2554326, 0.4989750, 0.2455925;
+  (2, 1) 0.0000000, 0.4976923, 0.5023077;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5003971, 0.4996029;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p609164891 | p609133389, p197143589 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4814509, 0.5185491, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5054945, 0.4945055, 0.0000000;
+  (1, 1) 0.2522736, 0.4982206, 0.2495057;
+  (2, 1) 0.0000000, 0.5205905, 0.4794095;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5152979, 0.4847021;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627246188 ) {
+  table 0.2467, 0.5124, 0.2409;
+}
+probability ( p627320490 | p627246188, p627253288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5196305, 0.4803695, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4768264, 0.5231736, 0.0000000;
+  (1, 1) 0.2534722, 0.5030864, 0.2434414;
+  (2, 1) 0.0000000, 0.5214466, 0.4785534;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4695864, 0.5304136;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627367791 | p627320490, p751522389 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5011876, 0.4988124, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.505098, 0.494902, 0.000000;
+  (1, 1) 0.2653643, 0.4814815, 0.2531543;
+  (2, 1) 0.0000000, 0.5124899, 0.4875101;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5039246, 0.4960754;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p751522389 ) {
+  table 0.2530, 0.4973, 0.2497;
+}
+probability ( p627378291 | p751522389, p627333990 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4861693, 0.5138307, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5007886, 0.4992114, 0.0000000;
+  (1, 1) 0.2512964, 0.5013961, 0.2473075;
+  (2, 1) 0.0000000, 0.5076305, 0.4923695;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5043205, 0.4956795;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197343392 | p627378291, p197224190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4991909, 0.5008091, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5059761, 0.4940239, 0.0000000;
+  (1, 1) 0.2444008, 0.4990177, 0.2565815;
+  (2, 1) 0.0000000, 0.5012048, 0.4987952;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4655172, 0.5344828;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197224190 | p197131588, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4897638, 0.5102362, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4946502, 0.5053498, 0.0000000;
+  (1, 1) 0.2473599, 0.5093420, 0.2432981;
+  (2, 1) 0.0000, 0.4875, 0.5125;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4991803, 0.5008197;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197131588 | p197111387, p197114187 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4986831, 0.5013169, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5126631, 0.4873369, 0.0000000;
+  (1, 1) 0.2522808, 0.4930583, 0.2546608;
+  (2, 1) 0.0000000, 0.4847775, 0.5152225;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5060631, 0.4939369;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197143589 | p197111387, p197114187 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4872695, 0.5127305, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4750576, 0.5249424, 0.0000000;
+  (1, 1) 0.2324474, 0.5109084, 0.2566442;
+  (2, 1) 0.0000000, 0.5042935, 0.4957065;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5109135, 0.4890865;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197111387 ) {
+  table 0.2552, 0.4897, 0.2551;
+}
+probability ( p197114187 ) {
+  table 0.2388, 0.5105, 0.2507;
+}
+probability ( p197131688 | p197111387, p197114187 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4942932, 0.5057068, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5057559, 0.4942441, 0.0000000;
+  (1, 1) 0.2621975, 0.4886950, 0.2491075;
+  (2, 1) 0.000000, 0.462139, 0.537861;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5052546, 0.4947454;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630068489 | p630810388, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.495659, 0.504341, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4929797, 0.5070203, 0.0000000;
+  (1, 1) 0.2572135, 0.4851608, 0.2576257;
+  (2, 1) 0.0000000, 0.4991987, 0.5008013;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4892601, 0.5107399;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p197155489 | p197131688, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4854369, 0.5145631, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4893268, 0.5106732, 0.0000000;
+  (1, 1) 0.2714876, 0.4814050, 0.2471074;
+  (2, 1) 0.0000000, 0.4753601, 0.5246399;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4925138, 0.5074862;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630388190 | p630068489, p197155489 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4733871, 0.5266129, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4931727, 0.5068273, 0.0000000;
+  (1, 1) 0.250918, 0.498572, 0.250510;
+  (2, 1) 0.0000000, 0.4853291, 0.5146709;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.501548, 0.498452;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48084991 | p630388190, p630349790 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4901478, 0.5098522, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4939565, 0.5060435, 0.0000000;
+  (1, 1) 0.2583398, 0.4926299, 0.2490303;
+  (2, 1) 0.0000000, 0.4893617, 0.5106383;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5164395, 0.4835605;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630886588 ) {
+  table 0.2410, 0.5018, 0.2572;
+}
+probability ( p630349790 | p630886588, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4959481, 0.5040519, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4825828, 0.5174172, 0.0000000;
+  (1, 1) 0.2402546, 0.5127287, 0.2470167;
+  (2, 1) 0.0000000, 0.5209486, 0.4790514;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4992126, 0.5007874;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48084291 | p50249390, p630370190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.499601, 0.500399, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5035461, 0.4964539, 0.0000000;
+  (1, 1) 0.2427608, 0.5089250, 0.2483142;
+  (2, 1) 0.0000000, 0.4969325, 0.5030675;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5107852, 0.4892148;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48084391 | p50249390, p630370190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4980048, 0.5019952, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4940898, 0.5059102, 0.0000000;
+  (1, 1) 0.2463308, 0.4882983, 0.2653709;
+  (2, 1) 0.0000000, 0.4854294, 0.5145706;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4831752, 0.5168248;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50249390 | p50141889, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.488189, 0.511811, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4865079, 0.5134921, 0.0000000;
+  (1, 1) 0.2574059, 0.4867894, 0.2558046;
+  (2, 1) 0.0000000, 0.4612177, 0.5387823;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.00000, 0.50358, 0.49642;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50141889 ) {
+  table 0.2502, 0.5025, 0.2473;
+}
+probability ( p50249590 | p50141889, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4889764, 0.5110236, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4809524, 0.5190476, 0.0000000;
+  (1, 1) 0.2550040, 0.5028022, 0.2421938;
+  (2, 1) 0.0000000, 0.5120934, 0.4879066;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4932379, 0.5067621;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p48092591 | p50249590, p630370190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.509992, 0.490008, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5059571, 0.4940429, 0.0000000;
+  (1, 1) 0.2489270, 0.4943426, 0.2567304;
+  (2, 1) 0.0000000, 0.4779874, 0.5220126;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5160758, 0.4839242;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630659387 ) {
+  table 0.2572, 0.5019, 0.2409;
+}
+probability ( p630335990 | p630659387, p82140988 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.49722, 0.50278, 0.00000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4764521, 0.5235479, 0.0000000;
+  (1, 1) 0.2382114, 0.5113821, 0.2504065;
+  (2, 1) 0.0000000, 0.5077678, 0.4922322;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5138462, 0.4861538;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630155891 | p630335990, p630370190 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4980453, 0.5019547, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5019763, 0.4980237, 0.0000000;
+  (1, 1) 0.2492248, 0.5062016, 0.2445736;
+  (2, 1) 0.0000000, 0.4955965, 0.5044035;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5037221, 0.4962779;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630007589 ) {
+  table 0.2521, 0.5056, 0.2423;
+}
+probability ( p630370190 | p630007589, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.486078, 0.513922, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5065536, 0.4934464, 0.0000000;
+  (1, 1) 0.2536058, 0.5148237, 0.2315705;
+  (2, 1) 0.0000000, 0.5245056, 0.4754944;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4881044, 0.5118956;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p50070388 | p630501586, p547261686 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5197472, 0.4802528, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5171588, 0.4828412, 0.0000000;
+  (1, 1) 0.2615572, 0.5024331, 0.2360097;
+  (2, 1) 0.0000000, 0.5057737, 0.4942263;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4562951, 0.5437049;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p630798688 ) {
+  table 0.2502, 0.4956, 0.2542;
+}
+probability ( p50133089 | p50070388, p630798688 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4725537, 0.5274463, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5121951, 0.4878049, 0.0000000;
+  (1, 1) 0.2535095, 0.4958712, 0.2506193;
+  (2, 1) 0.0000000, 0.4980206, 0.5019794;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4954881, 0.5045119;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82282491 | p50133089, p82154888 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5124224, 0.4875776, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4905363, 0.5094637, 0.0000000;
+  (1, 1) 0.2598457, 0.4803086, 0.2598457;
+  (2, 1) 0.000000, 0.503535, 0.496465;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.509178, 0.490822;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82154688 | p82093287, p750261487 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5125303, 0.4874697, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4853494, 0.5146506, 0.0000000;
+  (1, 1) 0.2635379, 0.4889691, 0.2474930;
+  (2, 1) 0.0000000, 0.4942244, 0.5057756;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5417957, 0.4582043;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82093287 ) {
+  table 0.2544, 0.5022, 0.2434;
+}
+probability ( p82154888 | p82093287, p750261487 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5125303, 0.4874697, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.527423, 0.472577, 0.000000;
+  (1, 1) 0.2454874, 0.5158444, 0.2386683;
+  (2, 1) 0.0000000, 0.5033003, 0.4966997;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.000000, 0.503096, 0.496904;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82071386 | p82019685, p803043885 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4980484, 0.5019516, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5028525, 0.4971475, 0.0000000;
+  (1, 1) 0.2417582, 0.5063085, 0.2519333;
+  (2, 1) 0.0000000, 0.4930876, 0.5069124;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4821429, 0.5178571;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p750261487 ) {
+  table 0.2448, 0.5036, 0.2516;
+}
+probability ( p82140988 | p82071386, p750261487 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.5064412, 0.4935588, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.521251, 0.478749, 0.000000;
+  (1, 1) 0.2568155, 0.4887396, 0.2544449;
+  (2, 1) 0.0000000, 0.5047695, 0.4952305;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4979592, 0.5020408;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627350790 | p82140988, p627257588 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.499601, 0.500399, 0.000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.5051958, 0.4948042, 0.0000000;
+  (1, 1) 0.2458472, 0.5078904, 0.2462625;
+  (2, 1) 0.0000000, 0.4955894, 0.5044106;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5231481, 0.4768519;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p627257588 ) {
+  table 0.2523, 0.4906, 0.2571;
+}
+probability ( p627333990 | p627257588, p627253288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4885434, 0.5114566, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4992236, 0.5007764, 0.0000000;
+  (1, 1) 0.2442191, 0.5034483, 0.2523327;
+  (2, 1) 0.0000000, 0.5249808, 0.4750192;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.5045119, 0.4954881;
+  (2, 2) 0.0, 0.0, 1.0;
+}
+probability ( p82155088 ) {
+  table 0.2455, 0.5030, 0.2515;
+}
+probability ( p627253288 ) {
+  table 0.2532, 0.5054, 0.2414;
+}
+probability ( p82265990 | p82155088, p627253288 ) {
+  (0, 0) 1.0, 0.0, 0.0;
+  (1, 0) 0.4937402, 0.5062598, 0.0000000;
+  (2, 0) 0.0, 1.0, 0.0;
+  (0, 1) 0.4944969, 0.5055031, 0.0000000;
+  (1, 1) 0.2529504, 0.4901652, 0.2568843;
+  (2, 1) 0.0000000, 0.5104839, 0.4895161;
+  (0, 2) 0.0, 1.0, 0.0;
+  (1, 2) 0.0000000, 0.4909091, 0.5090909;
+  (2, 2) 0.0, 0.0, 1.0;
+}
